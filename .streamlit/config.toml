@@ -1,0 +1,11 @@
+[theme]
+base="light"  # optional
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[global]
+hideStreamlitMark = true
