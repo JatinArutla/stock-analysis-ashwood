@@ -8,16 +8,42 @@ import re
 
 pd.options.mode.chained_assignment = None
 
-hide_streamlit_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            .viewerBadge_link__1S137 {display: none;}
-            .css-164nlkn.egzxvld1 {display: none;}
-            .stActionButton {display: none;}
-            </style>
-            """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+# hide_streamlit_style = """
+#             <style>
+#             #MainMenu {visibility: hidden;}
+#             footer {visibility: hidden;}
+#             .viewerBadge_link__1S137 {display: none;}
+#             .css-164nlkn.egzxvld1 {display: none;}
+#             .stActionButton {display: none;}
+#             </style>
+#             """
+# st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+
+hide_streamlit_elements = """
+    <style>
+    /* Hide main menu (hamburger) */
+    #MainMenu {visibility: hidden;}
+
+    /* Hide footer */
+    footer {visibility: hidden;}
+    footer:after {content:""; display:none;}
+
+    /* Hide Streamlit badge and "share" GitHub button */
+    .viewerBadge_link__1S137 {display: none !important;}
+    .stDeployButton {display: none !important;}
+    iframe[title="streamlit footer"] {display: none !important;}
+    div[data-testid="stDecoration"] {display: none !important;}
+    div[data-testid="stStatusWidget"] {display: none !important;}
+    div[data-testid="stToolbar"] {display: none !important;}
+
+    /* Hide beta share button container */
+    div[class*="st-emotion-cache"] a[href*="github.com"] {
+        display: none !important;
+    }
+    </style>
+"""
+
+st.markdown(hide_streamlit_elements, unsafe_allow_html=True)
 
 def dataframe_with_selections(df, inp_key):
     df_with_selections = df.copy()
