@@ -8,6 +8,16 @@ import re
 
 pd.options.mode.chained_assignment = None
 
+hide_footer = """
+    <style>
+    footer {visibility: hidden;}
+    .viewerBadge_link__1S137 {display: none;}
+    .css-qri22k {display: none;} /* In case it's in a container div */
+    </style>
+"""
+
+st.markdown(hide_footer, unsafe_allow_html=True)
+
 def dataframe_with_selections(df, inp_key):
     df_with_selections = df.copy()
     df_with_selections.insert(0, "Select", False)
