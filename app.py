@@ -8,15 +8,17 @@ import re
 
 pd.options.mode.chained_assignment = None
 
-hide_footer = """
+hide_streamlit_style = """
     <style>
+    #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     .viewerBadge_link__1S137 {display: none;}
-    .css-qri22k {display: none;} /* In case it's in a container div */
+    .css-164nlkn.egzxvld1 {display: none;}
+    .stActionButton {display: none;}
     </style>
 """
 
-st.markdown(hide_footer, unsafe_allow_html=True)
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 def dataframe_with_selections(df, inp_key):
     df_with_selections = df.copy()
