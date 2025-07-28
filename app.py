@@ -10,11 +10,22 @@ pd.options.mode.chained_assignment = None
 
 hide_streamlit_style = """
     <style>
+    /* Hide menu and badges */
     #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
     .viewerBadge_link__1S137 {display: none;}
-    .css-164nlkn.egzxvld1 {display: none;}
-    .stActionButton {display: none;}
+    .stDeployButton {display: none;}
+
+    /* Hide the iframe footer container */
+    iframe[title="streamlit footer"] {display: none;}
+
+    /* Fallback: Hide all elements at bottom if footer persists */
+    footer, footer * {
+        visibility: hidden;
+        height: 0px;
+    }
+
+    /* Additional catch-all for sticky footers */
+    div[data-testid="stFooter"] {display: none;}
     </style>
 """
 
