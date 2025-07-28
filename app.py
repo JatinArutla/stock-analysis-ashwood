@@ -1,12 +1,8 @@
 import streamlit as st
-import altair as alt
 st.set_page_config(layout="wide")
 
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-plt.style.use('fivethirtyeight') 
-import seaborn as sns
 import datetime
 import re
 
@@ -29,7 +25,7 @@ def dataframe_with_selections(df, inp_key):
 
 st.header('Handbags Stock\n')
 
-df = pd.read_excel('Handbags July 2025 No Groups.xlsx')
+df = pd.read_csv('Handbags July 2025 No Groups.csv')
 df['Colour'] = df['Colour'].str.capitalize()
 
 temp = df.groupby(['Style'])[['Stock', 'Q3 2024', 'Q4 2024', 'Q1 2025', 'Q2 2025', 'Total']].sum().reset_index().sort_values(by='Stock', ascending=False).reset_index(drop=True)
