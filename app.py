@@ -64,8 +64,11 @@ st.header('Handbags Stock\n')
 
 df = pd.read_csv('Handbags July 2025 No Groups.csv')
 df['Colour'] = df['Colour'].str.capitalize()
+df['Cost Price'] = df['Cost Price'].astype(str)
+df['RRP'] = df['RRP'].astype(str)
+df['Sale Price'] = df['Sale Price'].astype(str)
 
-temp = df.groupby(['Style'])[['Stock', 'Q3 2024', 'Q4 2024', 'Q1 2025', 'Q2 2025', 'Total']].sum().reset_index().sort_values(by='Stock', ascending=False).reset_index(drop=True)
+temp = df.groupby(['Style', 'Cost Price', 'RRP', 'Sale Price'])[['Stock', 'Q2 2025']].sum().reset_index().sort_values(by='Stock', ascending=False).reset_index(drop=True)
 
 selection = dataframe_with_selections(temp, 1)
 
@@ -76,4 +79,4 @@ if (selection['selected_rows_indices'] != []):
 
     image_column, df_column = st.columns([0.2, 0.8])
     image_column.image(df.iloc[0]['Image'])
-    df_column.dataframe(df[['Style', 'Colour', 'Sale Price', 'Stock', 'Q3 2024', 'Q4 2024', 'Q1 2025', 'Q2 2025', 'Total']].sort_values(by='Stock', ascending=False).reset_index(drop=True))
+    df_column.dataframe(df[['Style', 'Colour', 'Sale Price', 'Stock', 'Q3 2024', 'Q4 2024', 'Q1 2025', 'Q2 2025', 'Total Sold']].sort_values(by='Stock', ascending=False).reset_index(drop=True))
