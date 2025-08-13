@@ -279,16 +279,16 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 55,https://www.leathercompany.co.uk/images/products/zoom/1727534760-67759100.jpg,21-027,BORDO/CROC,0005295400,-,149.00,68.99,0.0,0,45,7,0,52
 55,https://www.leathercompany.co.uk/images/products/zoom/1727534760-67759100.jpg,21-027,BROWN/CROC,0005295500,-,149.00,68.99,1.0,0,26,28,2,56
 55,https://www.leathercompany.co.uk/images/products/zoom/1727534760-67759100.jpg,21-027,NAVY/CROC,0005295600,-,149.00,68.99,0.0,0,25,30,0,55
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,BLACK,0005054700,-,110.00,-,6.0,8,14,1,2,25
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,GREEN,0005054800,-,110.00,-,4.0,3,4,0,1,8
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,NAVY,0005054900,-,110.00,-,2.0,3,8,5,4,20
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,ORANGE,0005055000,-,110.00,-,5.0,4,1,1,6,12
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,PINK,0005055100,-,110.00,-,4.0,3,0,0,1,4
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,TAN,0005055200,-,110.00,-,3.0,3,12,5,5,25
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,TEAL,0005055300,-,110.00,-,2.0,3,3,1,1,8
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,WHITE,0005055400,-,110.00,-,2.0,4,1,0,6,11
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,WINE,0005055500,-,110.00,-,2.0,7,7,6,0,20
-57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,WOOD ROSE,0005055600,-,110.00,-,3.0,1,9,1,7,18
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,BLACK,0005054700,-,110.00,82.5,6.0,8,14,1,2,25
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,GREEN,0005054800,-,110.00,82.5,4.0,3,4,0,1,8
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,NAVY,0005054900,-,110.00,82.5,2.0,3,8,5,4,20
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,ORANGE,0005055000,-,110.00,82.5,5.0,4,1,1,6,12
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,PINK,0005055100,-,110.00,82.5,4.0,3,0,0,1,4
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,TAN,0005055200,-,110.00,82.5,3.0,3,12,5,5,25
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,TEAL,0005055300,-,110.00,82.5,2.0,3,3,1,1,8
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,WHITE,0005055400,-,110.00,82.5,2.0,4,1,0,6,11
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,WINE,0005055500,-,110.00,82.5,2.0,7,7,6,0,20
+57,https://www.leathercompany.co.uk/images/products/zoom/1711641128-87273300.jpg,x-37,WOOD ROSE,0005055600,-,110.00,82.5,3.0,1,9,1,7,18
 58,https://www.leathercompany.co.uk/images/products/zoom/1731755866-41780600.jpg,Glasgow,BERRY,0005384200,-,95.00,33.99,16.0,0,2,3,0,5
 58,https://www.leathercompany.co.uk/images/products/zoom/1731755866-41780600.jpg,Glasgow,BLACK,0005384100,-,95.00,33.99,49.0,0,33,41,4,78
 58,https://www.leathercompany.co.uk/images/products/zoom/1731755866-41780600.jpg,Glasgow,COGNAC,0005384300,-,95.00,33.99,39.0,0,8,12,2,22
@@ -420,15 +420,15 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 87,https://www.leathercompany.co.uk/images/products/zoom/1740141224-38704600.jpg,perth,COGNAC,0005431100,6.95,100.00,31.99,86.0,0,0,1,12,13
 87,https://www.leathercompany.co.uk/images/products/zoom/1740141224-38704600.jpg,perth,FERN,0005431200,6.95,100.00,31.99,87.0,0,0,1,11,12
 87,https://www.leathercompany.co.uk/images/products/zoom/1740141224-38704600.jpg,perth,HOT PINK,0005431300,6.95,100.00,31.99,93.0,0,0,1,5,6
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,BLACK,0005049900,-,45.00,-,0.0,0,2,2,4,8
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,BRANDY,0005050000,-,45.00,-,2.0,0,4,0,11,15
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,GREEN,0005050100,-,45.00,-,6.0,0,1,1,3,5
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,NAVY,0005049800,-,45.00,-,4.0,0,0,1,5,6
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,PURPLE,0005050200,-,45.00,-,11.0,0,0,1,1,2
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,RED,0005050300,-,45.00,-,7.0,0,0,1,3,4
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,TAN,0005050400,-,45.00,-,3.0,0,6,2,15,23
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,TEAL,0005050500,-,45.00,-,6.0,0,0,2,3,5
-88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,YELLOW,0005050600,-,45.00,-,5.0,0,0,1,2,3
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,BLACK,0005049900,-,45.00,33.75,0.0,0,2,2,4,8
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,BRANDY,0005050000,-,45.00,33.75,2.0,0,4,0,11,15
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,GREEN,0005050100,-,45.00,33.75,6.0,0,1,1,3,5
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,NAVY,0005049800,-,45.00,33.75,4.0,0,0,1,5,6
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,PURPLE,0005050200,-,45.00,33.75,11.0,0,0,1,1,2
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,RED,0005050300,-,45.00,33.75,7.0,0,0,1,3,4
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,TAN,0005050400,-,45.00,33.75,3.0,0,6,2,15,23
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,TEAL,0005050500,-,45.00,33.75,6.0,0,0,2,3,5
+88,https://www.leathercompany.co.uk/images/products/zoom/1710238452-40583600.jpg,d-102,YELLOW,0005050600,-,45.00,33.75,5.0,0,0,1,2,3
 89,https://www.leathercompany.co.uk/images/products/zoom/1728135832-78461600.jpg,AJ2,BLACK,0005326600,-,149.00,44.99,0.0,0,32,11,0,43
 89,https://www.leathercompany.co.uk/images/products/zoom/1728135832-78461600.jpg,AJ2,NAVY,0005326700,-,149.00,44.99,27.0,0,8,8,1,17
 89,https://www.leathercompany.co.uk/images/products/zoom/1728135832-78461600.jpg,AJ2,TAUPE,0005326800,-,149.00,44.99,31.0,0,6,3,1,10
@@ -461,47 +461,47 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 97,https://www.leathercompany.co.uk/images/products/1643821252-28259500.jpg,J-56,PEACH WHIP,0004288100,-,39.00,20.0,11.0,0,4,0,4,8
 97,https://www.leathercompany.co.uk/images/products/1643821252-28259500.jpg,J-56,WINTER SKY,0004288200,-,39.00,20.0,8.0,1,4,2,1,8
 97,https://www.leathercompany.co.uk/images/products/1643821252-28259500.jpg,J-56,WOOD ROSE,0004288300,-,39.00,20.0,0.0,0,5,2,1,8
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,BLACK,0005052700,-,70.00,-,2.0,9,8,6,1,24
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,GREEN,0005052800,-,70.00,-,7.0,1,3,2,0,6
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,NAVY,0005052900,-,70.00,-,4.0,2,5,0,1,8
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,ORANGE,0005053000,-,70.00,-,4.0,1,1,0,0,2
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,TAN,0005053200,-,70.00,-,6.0,0,4,1,1,6
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,TEAL,0005053300,-,70.00,-,5.0,2,2,0,0,4
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,WHITE,0005053400,-,70.00,-,3.0,2,1,1,2,6
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,WINE,0005053500,-,70.00,-,3.0,2,3,0,0,5
-99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,WOOD ROSE,0005053600,-,70.00,-,6.0,0,1,0,0,1
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,BLACK,0005052700,-,70.00,52.5,2.0,9,8,6,1,24
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,GREEN,0005052800,-,70.00,52.5,7.0,1,3,2,0,6
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,NAVY,0005052900,-,70.00,52.5,4.0,2,5,0,1,8
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,ORANGE,0005053000,-,70.00,52.5,4.0,1,1,0,0,2
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,TAN,0005053200,-,70.00,52.5,6.0,0,4,1,1,6
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,TEAL,0005053300,-,70.00,52.5,5.0,2,2,0,0,4
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,WHITE,0005053400,-,70.00,52.5,3.0,2,1,1,2,6
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,WINE,0005053500,-,70.00,52.5,3.0,2,3,0,0,5
+99,https://www.leathercompany.co.uk/images/products/zoom/1708613296-00060800.jpg,x-33,WOOD ROSE,0005053600,-,70.00,52.5,6.0,0,1,0,0,1
 100,https://www.leathercompany.co.uk/images/products/1590597996-79637500.jpg,V-20,BLACK,0003859000,-,69.00,39.99,5.0,10,18,4,1,33
 100,https://www.leathercompany.co.uk/images/products/1590597996-79637500.jpg,V-20,CHESTNUT,0003859100,-,69.00,39.99,0.0,2,16,1,0,19
 100,https://www.leathercompany.co.uk/images/products/1590597996-79637500.jpg,V-20,NAVY,0003859200,-,69.00,39.99,3.0,2,3,3,1,9
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,BLACK,0005047600,-,49.95,-,5.0,0,8,11,4,23
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,BRANDY,0005056700,-,49.95,-,5.0,0,0,6,1,7
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,GREEN,0005056800,-,49.95,-,5.0,0,3,2,2,7
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,NAVY,0005047500,-,49.95,-,6.0,0,2,0,2,4
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,PURPLE,0005047700,-,49.95,-,2.0,0,0,3,2,5
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,RED,0005056900,-,49.95,-,6.0,0,2,0,0,2
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,TAN,0005145400,-,49.95,-,2.0,0,2,1,7,10
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,TEAL,0005047800,-,49.95,-,3.0,0,1,0,0,1
-101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,YELLOW,0005047900,-,49.95,-,6.0,0,1,0,1,2
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,BLACK,0005047600,-,49.95,37.46,5.0,0,8,11,4,23
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,BRANDY,0005056700,-,49.95,37.46,5.0,0,0,6,1,7
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,GREEN,0005056800,-,49.95,37.46,5.0,0,3,2,2,7
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,NAVY,0005047500,-,49.95,37.46,6.0,0,2,0,2,4
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,PURPLE,0005047700,-,49.95,37.46,2.0,0,0,3,2,5
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,RED,0005056900,-,49.95,37.46,6.0,0,2,0,0,2
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,TAN,0005145400,-,49.95,37.46,2.0,0,2,1,7,10
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,TEAL,0005047800,-,49.95,37.46,3.0,0,1,0,0,1
+101,https://www.leathercompany.co.uk/images/products/zoom/1708428408-06865800.jpg,d-98,YELLOW,0005047900,-,49.95,37.46,6.0,0,1,0,1,2
 102,https://www.leathercompany.co.uk/images/products/1621442949-88864700.jpg,C-50,BLACK,0004148500,-,110.00,50.0,188.0,3,6,8,0,17
-102,https://www.leathercompany.co.uk/images/products/1621442949-88864700.jpg,C-50,BORDUEX,0004151100,-,60.00,-,7.0,0,1,3,0,4
+102,https://www.leathercompany.co.uk/images/products/1621442949-88864700.jpg,C-50,BORDUEX,0004151100,-,60.00,45.0,7.0,0,1,3,0,4
 102,https://www.leathercompany.co.uk/images/products/1621442949-88864700.jpg,C-50,TAN,0004148300,-,110.00,50.0,143.0,6,9,11,9,35
-102,https://www.leathercompany.co.uk/images/products/1621442949-88864700.jpg,C-50,TEAL,0004148400,-,60.00,-,9.0,0,1,1,0,2
+102,https://www.leathercompany.co.uk/images/products/1621442949-88864700.jpg,C-50,TEAL,0004148400,-,60.00,45.0,9.0,0,1,1,0,2
 103,https://www.leathercompany.co.uk/images/products/zoom/1680089384-35747400.jpg,63033/cb4,BLACK,0004532500,-,59.99,29.99,0.0,0,24,0,0,24
 103,https://www.leathercompany.co.uk/images/products/zoom/1680089384-35747400.jpg,63033/cb4,NAVY,0004592300,-,59.99,29.99,0.0,0,25,1,0,26
 103,https://www.leathercompany.co.uk/images/products/zoom/1680089384-35747400.jpg,63033/cb4,TAN,0004872700,-,59.99,29.99,116.0,0,3,2,3,8
 104,https://www.leathercompany.co.uk/images/products/zoom/1727785332-98077600.jpg,galway,BLACK,0005297400,-,99.99,34.99,22.0,0,18,5,2,25
 104,https://www.leathercompany.co.uk/images/products/zoom/1727785332-98077600.jpg,galway,avio blue,0005297500,-,99.99,34.99,44.0,0,0,2,5,7
 104,https://www.leathercompany.co.uk/images/products/zoom/1727785332-98077600.jpg,galway,cameo rose,0005297600,-,99.99,34.99,17.0,0,8,13,4,25
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,BLACK,0004414700,-,36.99,-,1.0,0,8,5,2,15
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,COGNAC,0004036300,-,36.99,-,0.0,0,3,5,0,8
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,DK BROWN,0004037000,-,36.99,-,8.0,0,0,5,1,6
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,DK GREY,0004036200,-,36.99,-,8.0,0,0,2,0,2
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,NAVY,0004036500,-,36.99,-,3.0,0,2,1,0,3
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,ORANGE,0004036800,-,36.99,-,10.0,0,0,1,1,2
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,RED,0004036600,-,36.99,-,0.0,0,4,2,0,6
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,TAUPE,0004036400,-,36.99,-,7.0,0,4,5,1,10
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,TURQUISE,0004414800,-,36.99,-,0.0,0,2,0,0,2
-105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,YELLOW,0004036700,-,36.99,-,7.0,0,0,1,1,2
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,BLACK,0004414700,-,36.99,27.74,1.0,0,8,5,2,15
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,COGNAC,0004036300,-,36.99,27.74,0.0,0,3,5,0,8
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,DK BROWN,0004037000,-,36.99,27.74,8.0,0,0,5,1,6
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,DK GREY,0004036200,-,36.99,27.74,8.0,0,0,2,0,2
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,NAVY,0004036500,-,36.99,27.74,3.0,0,2,1,0,3
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,ORANGE,0004036800,-,36.99,27.74,10.0,0,0,1,1,2
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,RED,0004036600,-,36.99,27.74,0.0,0,4,2,0,6
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,TAUPE,0004036400,-,36.99,27.74,7.0,0,4,5,1,10
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,TURQUISE,0004414800,-,36.99,27.74,0.0,0,2,0,0,2
+105,https://www.leathercompany.co.uk/images/products/zoom/1706807085-91015500.jpg,D-82,YELLOW,0004036700,-,36.99,27.74,7.0,0,0,1,1,2
 106,https://www.leathercompany.co.uk/images/products/1652459397-17868300.jpg,TRAVEL SET,BLACK,0004371900,-,69.95,39.99,23.0,0,2,3,0,5
 106,https://www.leathercompany.co.uk/images/products/1652459397-17868300.jpg,TRAVEL SET,BLK/CROC,0004372500,-,69.95,39.99,134.0,0,2,1,1,4
 106,https://www.leathercompany.co.uk/images/products/1652459397-17868300.jpg,TRAVEL SET,BLUSH CROC,0004372100,-,69.95,39.99,48.0,1,3,4,1,9
@@ -511,19 +511,19 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 106,https://www.leathercompany.co.uk/images/products/1652459397-17868300.jpg,TRAVEL SET,NAVY/CROC,0004372300,-,69.95,39.99,136.0,0,2,1,0,3
 106,https://www.leathercompany.co.uk/images/products/1652459397-17868300.jpg,TRAVEL SET,TEAL,0004371700,-,69.95,39.99,17.0,0,1,2,4,7
 106,https://www.leathercompany.co.uk/images/products/1652459397-17868300.jpg,TRAVEL SET,TEAL/CROC,0004372200,-,69.95,39.99,119.0,0,2,1,1,4
-107,https://www.leathercompany.co.uk/images/products/1682431959-52965700.jpg,z-73,BLACK,0004597000,-,80.00,-,0.0,0,6,21,0,27
-107,https://www.leathercompany.co.uk/images/products/1682431959-52965700.jpg,z-73,GREEN,0004597100,-,80.00,-,4.0,0,0,5,0,5
-107,https://www.leathercompany.co.uk/images/products/1682431959-52965700.jpg,z-73,TAN,0004597200,-,80.00,-,1.0,0,4,4,4,12
-107,https://www.leathercompany.co.uk/images/products/1682431959-52965700.jpg,z-73,WINE,0004597300,-,80.00,-,9.0,0,5,4,0,9
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,BLACK,0005049000,-,49.95,-,1.0,0,3,4,2,9
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,BRANDY,0005049100,-,49.95,-,2.0,0,7,12,2,21
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,GREEN,0005049200,-,49.95,-,1.0,0,2,2,2,6
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,NAVY,0005048900,-,49.95,-,3.0,0,1,3,0,4
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,PURPLE,0005049300,-,49.95,-,2.0,0,0,1,0,1
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,RED,0005049400,-,49.95,-,2.0,0,0,1,0,1
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,TAN,0005049500,-,49.95,-,5.0,0,2,5,1,8
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,TEAL,0005049600,-,49.95,-,2.0,0,1,0,0,1
-108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,YELLOW,0005049700,-,49.95,-,2.0,0,0,1,0,1
+107,https://www.leathercompany.co.uk/images/products/1682431959-52965700.jpg,z-73,BLACK,0004597000,-,80.00,60.0,0.0,0,6,21,0,27
+107,https://www.leathercompany.co.uk/images/products/1682431959-52965700.jpg,z-73,GREEN,0004597100,-,80.00,60.0,4.0,0,0,5,0,5
+107,https://www.leathercompany.co.uk/images/products/1682431959-52965700.jpg,z-73,TAN,0004597200,-,80.00,60.0,1.0,0,4,4,4,12
+107,https://www.leathercompany.co.uk/images/products/1682431959-52965700.jpg,z-73,WINE,0004597300,-,80.00,60.0,9.0,0,5,4,0,9
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,BLACK,0005049000,-,49.95,37.46,1.0,0,3,4,2,9
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,BRANDY,0005049100,-,49.95,37.46,2.0,0,7,12,2,21
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,GREEN,0005049200,-,49.95,37.46,1.0,0,2,2,2,6
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,NAVY,0005048900,-,49.95,37.46,3.0,0,1,3,0,4
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,PURPLE,0005049300,-,49.95,37.46,2.0,0,0,1,0,1
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,RED,0005049400,-,49.95,37.46,2.0,0,0,1,0,1
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,TAN,0005049500,-,49.95,37.46,5.0,0,2,5,1,8
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,TEAL,0005049600,-,49.95,37.46,2.0,0,1,0,0,1
+108,https://www.leathercompany.co.uk/images/products/zoom/1708431174-13672700.jpg,d-101,YELLOW,0005049700,-,49.95,37.46,2.0,0,0,1,0,1
 109,https://www.leathercompany.co.uk/images/products/zoom/1709656022-82615400.jpg,lb-6278,BLACK,0005068300,-,59.99,29.99,0.0,6,18,11,4,39
 109,https://www.leathercompany.co.uk/images/products/zoom/1709656022-82615400.jpg,lb-6278,TAN,0005068400,-,59.99,29.99,11.0,4,1,5,2,12
 110,https://www.leathercompany.co.uk/images/products/1666955520-40691200.jpg,63790,BLACK,0004475500,-,100.00,50.0,66.0,6,21,5,1,33
@@ -540,26 +540,26 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 113,https://www.leathercompany.co.uk/images/products/zoom/1727779797-87968900.jpg,52234,BROWN/CROC,0005294100,-,159.00,74.99,42.0,0,2,5,0,7
 113,https://www.leathercompany.co.uk/images/products/zoom/1727779797-87968900.jpg,52234,COGNAC/CROC,0005293900,-,159.00,74.99,42.0,0,2,4,0,6
 113,https://www.leathercompany.co.uk/images/products/zoom/1727779797-87968900.jpg,52234,GREEN/CROC,0005294000,-,159.00,74.99,39.0,0,1,3,0,4
-113,https://www.leathercompany.co.uk/images/products/zoom/1727779797-87968900.jpg,52234,NAVY/CROC,0005296000,-,159.00,-,46.0,0,1,2,0,3
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,BLACK,0005051700,-,49.99,-,3.0,1,5,2,3,11
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,GREEN,0005051800,-,49.99,-,2.0,2,3,0,1,6
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,NAVY,0005051900,-,49.99,-,3.0,1,4,3,1,9
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,ORANGE,0005052000,-,49.99,-,11.0,1,2,0,1,4
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,PINK,0005052100,-,49.99,-,4.0,0,0,0,0,0
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,TAN,0005052200,-,49.99,-,6.0,0,0,1,1,2
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,TEAL,0005052300,-,49.99,-,3.0,0,4,0,0,4
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,WHITE,0005052400,-,49.99,-,5.0,2,1,0,2,5
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,WINE,0005052500,-,49.99,-,1.0,0,2,0,2,4
-114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,WOOD ROSE,0005052600,-,49.99,-,7.0,0,1,2,0,3
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,BLACK,0004414500,-,39.99,-,13.0,0,8,5,3,16
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,COGNAC,0004035400,-,39.99,-,16.0,0,1,3,3,7
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,DK BROWN,0004036100,-,39.99,-,9.0,0,0,2,0,2
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,NAVY,0004035600,-,39.99,-,6.0,0,4,1,3,8
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,ORANGE,0004035900,-,39.99,-,8.0,0,1,0,0,1
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,RED,0004035700,-,39.99,-,3.0,0,1,1,0,2
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,TAUPE,0004035500,-,39.99,-,3.0,0,2,0,1,3
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,TURQUISE,0004414600,-,39.99,-,1.0,0,3,2,0,5
-115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,YELLOW,0004035800,-,39.99,-,11.0,0,0,1,0,1
+113,https://www.leathercompany.co.uk/images/products/zoom/1727779797-87968900.jpg,52234,NAVY/CROC,0005296000,-,159.00,119.25,46.0,0,1,2,0,3
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,BLACK,0005051700,-,49.99,37.49,3.0,1,5,2,3,11
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,GREEN,0005051800,-,49.99,37.49,2.0,2,3,0,1,6
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,NAVY,0005051900,-,49.99,37.49,3.0,1,4,3,1,9
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,ORANGE,0005052000,-,49.99,37.49,11.0,1,2,0,1,4
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,PINK,0005052100,-,49.99,37.49,4.0,0,0,0,0,0
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,TAN,0005052200,-,49.99,37.49,6.0,0,0,1,1,2
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,TEAL,0005052300,-,49.99,37.49,3.0,0,4,0,0,4
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,WHITE,0005052400,-,49.99,37.49,5.0,2,1,0,2,5
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,WINE,0005052500,-,49.99,37.49,1.0,0,2,0,2,4
+114,https://www.leathercompany.co.uk/images/products/zoom/1708698599-88352400.jpg,x-31,WOOD ROSE,0005052600,-,49.99,37.49,7.0,0,1,2,0,3
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,BLACK,0004414500,-,39.99,29.99,13.0,0,8,5,3,16
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,COGNAC,0004035400,-,39.99,29.99,16.0,0,1,3,3,7
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,DK BROWN,0004036100,-,39.99,29.99,9.0,0,0,2,0,2
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,NAVY,0004035600,-,39.99,29.99,6.0,0,4,1,3,8
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,ORANGE,0004035900,-,39.99,29.99,8.0,0,1,0,0,1
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,RED,0004035700,-,39.99,29.99,3.0,0,1,1,0,2
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,TAUPE,0004035500,-,39.99,29.99,3.0,0,2,0,1,3
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,TURQUISE,0004414600,-,39.99,29.99,1.0,0,3,2,0,5
+115,https://www.leathercompany.co.uk/images/products/1602856276-40236300.jpg,D-81,YELLOW,0004035800,-,39.99,29.99,11.0,0,0,1,0,1
 116,https://www.leathercompany.co.uk/images/products/1619110141-48191500.jpg,V-29,BLACK,0004129300,-,120.00,65.0,10.0,3,8,3,1,15
 116,https://www.leathercompany.co.uk/images/products/1619110141-48191500.jpg,V-29,CHESTNUT,0004129500,-,120.00,65.0,4.0,3,8,4,2,17
 116,https://www.leathercompany.co.uk/images/products/1619110141-48191500.jpg,V-29,NAVY,0004129400,-,120.00,65.0,7.0,3,3,5,0,11
@@ -571,13 +571,13 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 118,https://www.leathercompany.co.uk/images/products/1589558644-92482400.jpg,V-27,BLACK,0003857500,-,85.00,39.99,4.0,4,17,4,0,25
 118,https://www.leathercompany.co.uk/images/products/1589558644-92482400.jpg,V-27,CHESTNUT,0003857700,-,85.00,39.99,13.0,0,2,7,0,9
 118,https://www.leathercompany.co.uk/images/products/1589558644-92482400.jpg,V-27,NAVY,0003857600,-,85.00,39.99,8.0,1,4,1,1,7
-119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,BLACK,0004414300,-,29.99,-,0.0,0,9,4,3,16
-119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,DK BROWN,0004035200,-,29.99,-,9.0,0,2,3,0,5
-119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,DK GREY,0004034400,-,29.99,-,9.0,0,1,2,0,3
-119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,RED,0004034800,-,29.99,-,2.0,0,4,1,0,5
-119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,TAUPE,0004034600,-,29.99,-,0.0,0,4,3,0,7
-119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,TURQUISE,0004414400,-,29.99,-,5.0,0,2,1,0,3
-119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,YELLOW,0004034900,-,29.99,-,2.0,0,1,0,1,2
+119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,BLACK,0004414300,-,29.99,22.49,0.0,0,9,4,3,16
+119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,DK BROWN,0004035200,-,29.99,22.49,9.0,0,2,3,0,5
+119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,DK GREY,0004034400,-,29.99,22.49,9.0,0,1,2,0,3
+119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,RED,0004034800,-,29.99,22.49,2.0,0,4,1,0,5
+119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,TAUPE,0004034600,-,29.99,22.49,0.0,0,4,3,0,7
+119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,TURQUISE,0004414400,-,29.99,22.49,5.0,0,2,1,0,3
+119,https://www.leathercompany.co.uk/images/products/1602775098-24661700.jpg,D-80,YELLOW,0004034900,-,29.99,22.49,2.0,0,1,0,1,2
 120,https://www.leathercompany.co.uk/images/products/zoom/1739982460-83704500.jpg,cardiff,BLACK,0005432000,8.35,100.00,36.49,160.0,0,0,8,14,22
 120,https://www.leathercompany.co.uk/images/products/zoom/1739982460-83704500.jpg,cardiff,BLUSH,0005432100,8.35,100.00,36.49,81.0,0,0,1,7,8
 120,https://www.leathercompany.co.uk/images/products/zoom/1739982460-83704500.jpg,cardiff,COGNAC,0005432200,8.35,100.00,36.49,94.0,0,0,0,6,6
@@ -586,7 +586,7 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 121,https://www.leathercompany.co.uk/images/products/zoom/1727885577-42953300.jpg,dungannon,avio blue,0005308300,-,139.00,48.99,10.0,0,7,10,9,26
 121,https://www.leathercompany.co.uk/images/products/zoom/1727885577-42953300.jpg,dungannon,cameo rose,0005308400,-,139.00,48.99,23.0,0,10,3,2,15
 122,https://www.leathercompany.co.uk/images/products/1623243791-80969300.jpg,ELA 1495,BLACK,0003379200,-,59.99,29.99,0.0,0,10,12,4,26
-122,https://www.leathercompany.co.uk/images/products/1623243791-80969300.jpg,ELA 1495,MUD/BROWN,0005073000,-,60.00,-,3.0,0,1,4,1,6
+122,https://www.leathercompany.co.uk/images/products/1623243791-80969300.jpg,ELA 1495,MUD/BROWN,0005073000,-,60.00,45.0,3.0,0,1,4,1,6
 122,https://www.leathercompany.co.uk/images/products/1623243791-80969300.jpg,ELA 1495,NAVY,0003379400,-,59.99,29.99,10.0,0,3,3,2,8
 123,https://www.leathercompany.co.uk/images/products/zoom/1739971383-00006900.jpg,oxford,BLACK,0005433500,10.95,140.00,44.99,186.0,0,0,2,11,13
 123,https://www.leathercompany.co.uk/images/products/zoom/1739971383-00006900.jpg,oxford,BLUSH,0005433600,10.95,140.00,44.99,81.0,0,0,1,12,13
@@ -632,23 +632,23 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 140,https://www.leathercompany.co.uk/images/products/1669741040-54938900.jpg,62320,MANDARIN,0004509500,-,120.00,59.99,15.0,3,4,2,1,10
 140,https://www.leathercompany.co.uk/images/products/1669741040-54938900.jpg,62320,RED,0003743700,-,120.00,59.99,14.0,1,3,3,1,8
 140,https://www.leathercompany.co.uk/images/products/1669741040-54938900.jpg,62320,TAN,0004509600,-,120.00,59.99,3.0,0,6,2,1,9
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,BLACK,0005053700,-,80.00,-,6.0,1,3,4,0,8
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,GREEN,0005053800,-,80.00,-,5.0,1,0,1,0,2
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,NAVY,0005053900,-,80.00,-,0.0,0,1,1,1,3
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,PINK,0005054100,-,80.00,-,8.0,0,1,0,0,1
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,TAN,0005054200,-,80.00,-,2.0,1,0,1,0,2
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,TEAL,0005054300,-,80.00,-,4.0,1,0,1,0,2
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,WHITE,0005054400,-,80.00,-,0.0,2,1,0,0,3
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,WINE,0005054500,-,80.00,-,5.0,0,2,0,0,2
-141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,WOOD ROSE,0005054600,-,80.00,-,1.0,2,0,1,2,5
-142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,BLACK,0005148000,-,40.00,-,5.0,0,1,2,3,6
-142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,BRANDY,0005148100,-,40.00,-,5.0,0,2,1,4,7
-142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,HONEY,0005148200,-,40.00,-,4.0,0,2,0,3,5
-142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,NAVY,0005148300,-,40.00,-,3.0,0,1,1,3,5
-142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,RED,0005148400,-,40.00,-,4.0,0,0,1,4,5
-143,https://www.leathercompany.co.uk/images/products/1599131836-71268500.jpg,G-43,BLACK,0003935300,-,50.00,-,6.0,0,6,4,0,10
-143,https://www.leathercompany.co.uk/images/products/1599131836-71268500.jpg,G-43,BRANDY,0003935500,-,50.00,-,8.0,0,1,0,1,2
-143,https://www.leathercompany.co.uk/images/products/1599131836-71268500.jpg,G-43,TAN,0003935400,-,50.00,-,8.0,1,9,4,1,15
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,BLACK,0005053700,-,80.00,60.0,6.0,1,3,4,0,8
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,GREEN,0005053800,-,80.00,60.0,5.0,1,0,1,0,2
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,NAVY,0005053900,-,80.00,60.0,0.0,0,1,1,1,3
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,PINK,0005054100,-,80.00,60.0,8.0,0,1,0,0,1
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,TAN,0005054200,-,80.00,60.0,2.0,1,0,1,0,2
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,TEAL,0005054300,-,80.00,60.0,4.0,1,0,1,0,2
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,WHITE,0005054400,-,80.00,60.0,0.0,2,1,0,0,3
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,WINE,0005054500,-,80.00,60.0,5.0,0,2,0,0,2
+141,https://www.leathercompany.co.uk/images/products/zoom/1708538084-16808700.jpg,x-35,WOOD ROSE,0005054600,-,80.00,60.0,1.0,2,0,1,2,5
+142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,BLACK,0005148000,-,40.00,30.0,5.0,0,1,2,3,6
+142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,BRANDY,0005148100,-,40.00,30.0,5.0,0,2,1,4,7
+142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,HONEY,0005148200,-,40.00,30.0,4.0,0,2,0,3,5
+142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,NAVY,0005148300,-,40.00,30.0,3.0,0,1,1,3,5
+142,https://www.leathercompany.co.uk/images/products/zoom/1713965506-59370400.jpg,g-15,RED,0005148400,-,40.00,30.0,4.0,0,0,1,4,5
+143,https://www.leathercompany.co.uk/images/products/1599131836-71268500.jpg,G-43,BLACK,0003935300,-,50.00,37.5,6.0,0,6,4,0,10
+143,https://www.leathercompany.co.uk/images/products/1599131836-71268500.jpg,G-43,BRANDY,0003935500,-,50.00,37.5,8.0,0,1,0,1,2
+143,https://www.leathercompany.co.uk/images/products/1599131836-71268500.jpg,G-43,TAN,0003935400,-,50.00,37.5,8.0,1,9,4,1,15
 145,https://www.leathercompany.co.uk/images/products/1590584511-42521300.jpg,V-25,BLACK,0003856900,-,115.00,62.99,0.0,6,8,2,0,16
 145,https://www.leathercompany.co.uk/images/products/1590584511-42521300.jpg,V-25,CHESTNUT,0003857100,-,115.00,62.99,0.0,2,1,0,0,3
 145,https://www.leathercompany.co.uk/images/products/1590584511-42521300.jpg,V-25,NAVY,0003857000,-,115.00,62.99,0.0,2,4,0,2,8
@@ -670,28 +670,28 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 151,https://www.leathercompany.co.uk/images/products/zoom/1708083348-66468700.jpg,st 2231,BLACK,0005045100,-,79.99,29.99,250.0,0,0,4,0,4
 151,https://www.leathercompany.co.uk/images/products/zoom/1708083348-66468700.jpg,st 2231,BROWN,0005045200,-,79.99,29.99,52.0,0,0,0,5,5
 151,https://www.leathercompany.co.uk/images/products/zoom/1708083348-66468700.jpg,st 2231,TAN,0005045300,-,79.99,29.99,8.0,0,0,8,8,16
-152,https://www.leathercompany.co.uk/images/products/zoom/1682425698-72055500.jpg,z-71,BLACK,0004596200,-,40.00,-,15.0,0,3,7,4,14
-152,https://www.leathercompany.co.uk/images/products/zoom/1682425698-72055500.jpg,z-71,GREEN,0004596300,-,40.00,-,2.0,0,0,2,0,2
-152,https://www.leathercompany.co.uk/images/products/zoom/1682425698-72055500.jpg,z-71,TAN,0004596400,-,40.00,-,3.0,0,4,0,3,7
-152,https://www.leathercompany.co.uk/images/products/zoom/1682425698-72055500.jpg,z-71,WINE,0004596500,-,40.00,-,5.0,0,2,0,0,2
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,BLACK,0004416300,-,69.99,-,6.0,0,2,0,1,3
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,DK BROWN,0004030400,-,69.99,-,12.0,0,2,0,0,2
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,DK GREY,0004029700,-,69.99,-,11.0,0,0,0,0,0
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,GREEN,0004030300,-,69.99,-,1.0,0,3,3,0,6
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,NAVY,0004029900,-,69.99,-,3.0,0,2,2,0,4
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,ORANGE,0004030200,-,69.99,-,7.0,0,1,0,0,1
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,TAUPE,0004029800,-,69.99,-,0.0,0,3,3,0,6
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,TURQUISE,0004416400,-,69.99,-,8.0,0,1,0,1,2
-153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,YELLOW,0004030100,-,69.99,-,2.0,0,0,1,0,1
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,BEIGE,0005475900,-,45.00,-,2.0,0,0,0,2,2
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,BLACK,0005475800,-,45.00,-,0.0,0,0,0,4,4
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,BUTTERSCOTCH,0005476000,-,45.00,-,5.0,0,0,0,4,4
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,GREEN,0005476100,-,45.00,-,2.0,0,0,0,1,1
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,MUSTARD,0005476200,-,45.00,-,1.0,0,0,0,3,3
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,NAVY,0005476300,-,45.00,-,3.0,0,0,0,1,1
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,ORANGE,0005476400,-,45.00,-,1.0,0,0,0,2,2
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,RASPBERRY,0005476500,-,45.00,-,0.0,0,0,0,3,3
-154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,WHITE,0005476700,-,45.00,-,2.0,0,0,0,3,3
+152,https://www.leathercompany.co.uk/images/products/zoom/1682425698-72055500.jpg,z-71,BLACK,0004596200,-,40.00,30.0,15.0,0,3,7,4,14
+152,https://www.leathercompany.co.uk/images/products/zoom/1682425698-72055500.jpg,z-71,GREEN,0004596300,-,40.00,30.0,2.0,0,0,2,0,2
+152,https://www.leathercompany.co.uk/images/products/zoom/1682425698-72055500.jpg,z-71,TAN,0004596400,-,40.00,30.0,3.0,0,4,0,3,7
+152,https://www.leathercompany.co.uk/images/products/zoom/1682425698-72055500.jpg,z-71,WINE,0004596500,-,40.00,30.0,5.0,0,2,0,0,2
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,BLACK,0004416300,-,69.99,52.49,6.0,0,2,0,1,3
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,DK BROWN,0004030400,-,69.99,52.49,12.0,0,2,0,0,2
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,DK GREY,0004029700,-,69.99,52.49,11.0,0,0,0,0,0
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,GREEN,0004030300,-,69.99,52.49,1.0,0,3,3,0,6
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,NAVY,0004029900,-,69.99,52.49,3.0,0,2,2,0,4
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,ORANGE,0004030200,-,69.99,52.49,7.0,0,1,0,0,1
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,TAUPE,0004029800,-,69.99,52.49,0.0,0,3,3,0,6
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,TURQUISE,0004416400,-,69.99,52.49,8.0,0,1,0,1,2
+153,https://www.leathercompany.co.uk/images/products/1602765467-38690400.jpg,D-70,YELLOW,0004030100,-,69.99,52.49,2.0,0,0,1,0,1
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,BEIGE,0005475900,-,45.00,33.75,2.0,0,0,0,2,2
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,BLACK,0005475800,-,45.00,33.75,0.0,0,0,0,4,4
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,BUTTERSCOTCH,0005476000,-,45.00,33.75,5.0,0,0,0,4,4
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,GREEN,0005476100,-,45.00,33.75,2.0,0,0,0,1,1
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,MUSTARD,0005476200,-,45.00,33.75,1.0,0,0,0,3,3
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,NAVY,0005476300,-,45.00,33.75,3.0,0,0,0,1,1
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,ORANGE,0005476400,-,45.00,33.75,1.0,0,0,0,2,2
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,RASPBERRY,0005476500,-,45.00,33.75,0.0,0,0,0,3,3
+154,https://www.leathercompany.co.uk/images/products/zoom/1742822859-46876600.jpg,y-60,WHITE,0005476700,-,45.00,33.75,2.0,0,0,0,3,3
 155,https://www.leathercompany.co.uk/images/products/1642599836-00087800.jpg,62262,BLACK,0004271600,-,99.00,39.99,9.0,0,13,6,4,23
 156,https://www.leathercompany.co.uk/images/products/zoom/1727782489-98305400.jpg,limerick,BLACK,0005297000,-,99.99,34.99,22.0,0,10,7,1,18
 156,https://www.leathercompany.co.uk/images/products/zoom/1727782489-98305400.jpg,limerick,avio blue,0005297100,-,99.99,34.99,35.0,0,2,3,0,5
@@ -702,12 +702,12 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 158,https://www.leathercompany.co.uk/images/products/zoom/1709569685-16656400.jpg,63386,OFF WHITE,0005067700,-,129.00,39.99,1.0,0,3,2,2,7
 158,https://www.leathercompany.co.uk/images/products/zoom/1709569685-16656400.jpg,63386,PINK,0005067900,-,129.00,39.99,5.0,0,1,2,2,5
 159,https://www.leathercompany.co.uk/images/products/zoom/1727798612-16768100.jpg,20-120,BRIDGE,0005296600,-,149.00,68.99,25.0,0,10,8,5,23
-160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,BLACK,0003742800,-,59.99,-,3.0,0,2,0,1,3
-160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,BRANDY,0003742900,-,59.99,-,2.0,0,3,2,2,7
-160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,GREY,0004134000,-,59.99,-,4.0,0,0,0,0,0
-160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,HONEY,0003743000,-,59.99,-,5.0,0,4,4,1,9
-160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,NAVY,0005147300,-,59.99,-,1.0,0,2,0,1,3
-160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,RED,0004761900,-,59.99,-,4.0,0,0,0,0,0
+160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,BLACK,0003742800,-,59.99,44.99,3.0,0,2,0,1,3
+160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,BRANDY,0003742900,-,59.99,44.99,2.0,0,3,2,2,7
+160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,GREY,0004134000,-,59.99,44.99,4.0,0,0,0,0,0
+160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,HONEY,0003743000,-,59.99,44.99,5.0,0,4,4,1,9
+160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,NAVY,0005147300,-,59.99,44.99,1.0,0,2,0,1,3
+160,https://www.leathercompany.co.uk/images/products/1619605117-05698100.jpg,G24,RED,0004761900,-,59.99,44.99,4.0,0,0,0,0,0
 162,https://www.leathercompany.co.uk/images/products/zoom/1679490981-78149100.jpg,mc 1,COGNAC/CROC,0004558400,-,99.00,48.99,0.0,0,10,3,1,14
 162,https://www.leathercompany.co.uk/images/products/zoom/1679490981-78149100.jpg,mc 1,NAVY/CROC,0004558500,-,99.00,48.99,0.0,1,1,0,0,2
 162,https://www.leathercompany.co.uk/images/products/zoom/1679490981-78149100.jpg,mc 1,brandy croc,0004558300,-,99.00,48.99,12.0,0,5,1,0,6
@@ -724,10 +724,10 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 167,https://www.leathercompany.co.uk/images/products/zoom/1741775756-87529500.jpg,32057,SAGE,0005450600,4.1,60.00,24.99,198.0,0,0,0,1,1
 167,https://www.leathercompany.co.uk/images/products/zoom/1741775756-87529500.jpg,32057,WOOD ROSE,0005450700,4.1,60.00,24.99,194.0,0,0,1,3,4
 168,https://www.leathercompany.co.uk/images/products/1574160718-63773800.jpg,DOLLY,BLACK,0002034200,-,69.99,29.99,14.0,0,6,11,3,20
-169,https://www.leathercompany.co.uk/images/products/zoom/1682436092-91022300.jpg,z-75,BLACK,0004597800,-,70.00,-,3.0,0,5,3,1,9
-169,https://www.leathercompany.co.uk/images/products/zoom/1682436092-91022300.jpg,z-75,GREEN,0004597900,-,70.00,-,3.0,0,0,0,0,0
-169,https://www.leathercompany.co.uk/images/products/zoom/1682436092-91022300.jpg,z-75,TAN,0004598000,-,70.00,-,5.0,0,2,1,1,4
-169,https://www.leathercompany.co.uk/images/products/zoom/1682436092-91022300.jpg,z-75,WINE,0004598100,-,70.00,-,3.0,0,1,2,4,7
+169,https://www.leathercompany.co.uk/images/products/zoom/1682436092-91022300.jpg,z-75,BLACK,0004597800,-,70.00,52.5,3.0,0,5,3,1,9
+169,https://www.leathercompany.co.uk/images/products/zoom/1682436092-91022300.jpg,z-75,GREEN,0004597900,-,70.00,52.5,3.0,0,0,0,0,0
+169,https://www.leathercompany.co.uk/images/products/zoom/1682436092-91022300.jpg,z-75,TAN,0004598000,-,70.00,52.5,5.0,0,2,1,1,4
+169,https://www.leathercompany.co.uk/images/products/zoom/1682436092-91022300.jpg,z-75,WINE,0004598100,-,70.00,52.5,3.0,0,1,2,4,7
 170,https://www.leathercompany.co.uk/images/products/zoom/1740415998-45383700.jpg,swansea,BLACK,0005430400,6.95,100.00,31.99,190.0,0,0,2,6,8
 170,https://www.leathercompany.co.uk/images/products/zoom/1740415998-45383700.jpg,swansea,BLUSH,0005430500,6.95,100.00,31.99,97.0,0,0,1,0,1
 170,https://www.leathercompany.co.uk/images/products/zoom/1740415998-45383700.jpg,swansea,COGNAC,0005430600,6.95,100.00,31.99,96.0,0,0,0,3,3
@@ -767,11 +767,11 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 183,https://www.leathercompany.co.uk/images/products/1619526771-12892700.jpg,AW0020,BLACK,0004131300,-,120.00,44.99,0.0,1,10,0,0,11
 183,https://www.leathercompany.co.uk/images/products/1619526771-12892700.jpg,AW0020,NUDE+S BROWN,0004131400,-,120.00,44.99,20.0,1,1,2,1,5
 184,https://www.leathercompany.co.uk/images/products/1598545983-07607100.jpg,M-68,BLACK,0003907800,-,59.99,33.99,14.0,0,7,8,1,16
-185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,BLACK,0005046200,-,55.00,-,3.0,0,0,2,1,3
-185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,BRANDY,0005046300,-,55.00,-,0.0,0,2,0,1,3
-185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,GREEN,0004594500,-,55.00,-,2.0,0,0,0,2,2
-185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,RED,0005046400,-,55.00,-,5.0,0,1,0,1,2
-185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,TAN,0004594300,-,55.00,-,1.0,0,2,0,3,5
+185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,BLACK,0005046200,-,55.00,41.25,3.0,0,0,2,1,3
+185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,BRANDY,0005046300,-,55.00,41.25,0.0,0,2,0,1,3
+185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,GREEN,0004594500,-,55.00,41.25,2.0,0,0,0,2,2
+185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,RED,0005046400,-,55.00,41.25,5.0,0,1,0,1,2
+185,https://www.leathercompany.co.uk/images/products/zoom/1708103876-63613000.jpg,d-90,TAN,0004594300,-,55.00,41.25,1.0,0,2,0,3,5
 186,https://www.leathercompany.co.uk/images/products/zoom/1710775236-87564900.jpg,ela 1766,GREY,0005078300,-,79.99,39.99,0.0,2,5,2,0,9
 186,https://www.leathercompany.co.uk/images/products/zoom/1710775236-87564900.jpg,ela 1766,TAN,0005078400,-,79.99,39.99,0.0,6,0,0,0,6
 187,https://www.leathercompany.co.uk/images/products/1643370796-32430200.jpg,J-10,BLK/LEOPARD,0004281400,-,99.98,54.99,7.0,0,5,3,1,9
@@ -780,30 +780,30 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 187,https://www.leathercompany.co.uk/images/products/1643370796-32430200.jpg,J-10,WOOD ROSE,0004281600,-,99.98,54.99,15.0,1,1,1,0,3
 188,https://www.leathercompany.co.uk/images/products/zoom/1701610278-35734600.jpg,bc2,BLACK,0004989000,-,119.00,54.99,63.0,0,3,5,1,9
 188,https://www.leathercompany.co.uk/images/products/zoom/1701610278-35734600.jpg,bc2,BRANDY,0004989100,-,119.00,54.99,45.0,0,4,2,0,6
-189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,BLACK,0004416500,-,79.99,-,3.0,0,2,0,3,5
-189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,COGNAC,0004030600,-,79.99,-,0.0,0,2,0,0,2
-189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,DK BROWN,0004031000,-,79.99,-,3.0,0,1,3,1,5
-189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,NAVY,0004030800,-,79.99,-,0.0,0,1,0,0,1
-189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,RED,0004030900,-,79.99,-,3.0,0,1,0,1,2
-189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,TURQUISE,0004416600,-,79.99,-,3.0,0,0,0,0,0
+189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,BLACK,0004416500,-,79.99,59.99,3.0,0,2,0,3,5
+189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,COGNAC,0004030600,-,79.99,59.99,0.0,0,2,0,0,2
+189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,DK BROWN,0004031000,-,79.99,59.99,3.0,0,1,3,1,5
+189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,NAVY,0004030800,-,79.99,59.99,0.0,0,1,0,0,1
+189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,RED,0004030900,-,79.99,59.99,3.0,0,1,0,1,2
+189,https://www.leathercompany.co.uk/images/products/1657028804-43125400.jpg,D-71,TURQUISE,0004416600,-,79.99,59.99,3.0,0,0,0,0,0
 190,https://www.leathercompany.co.uk/images/products/zoom/1727876942-83694500.jpg,donegal,BLACK,0005309700,-,149.00,59.0,41.0,0,6,1,2,9
 190,https://www.leathercompany.co.uk/images/products/zoom/1727876942-83694500.jpg,donegal,COGNAC,0005309800,-,149.00,59.0,39.0,0,2,0,4,6
 191,https://www.leathercompany.co.uk/images/products/1621424017-89604000.jpg,C-52,GREEN,0004149400,-,90.00,54.99,0.0,4,0,0,0,4
 191,https://www.leathercompany.co.uk/images/products/1621424017-89604000.jpg,C-52,TAN,0004149100,-,90.00,54.99,5.0,1,5,4,0,10
-192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,BLACK,0005148500,-,70.00,-,4.0,0,2,5,0,7
-192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,BRANDY,0005148600,-,70.00,-,5.0,0,1,1,0,2
-192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,HONEY,0005148700,-,70.00,-,4.0,0,0,0,1,1
-192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,NAVY,0005148800,-,70.00,-,6.0,0,1,1,1,3
-192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,RED,0005148900,-,70.00,-,3.0,0,0,1,0,1
+192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,BLACK,0005148500,-,70.00,52.5,4.0,0,2,5,0,7
+192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,BRANDY,0005148600,-,70.00,52.5,5.0,0,1,1,0,2
+192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,HONEY,0005148700,-,70.00,52.5,4.0,0,0,0,1,1
+192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,NAVY,0005148800,-,70.00,52.5,6.0,0,1,1,1,3
+192,https://www.leathercompany.co.uk/images/products/zoom/1713543517-34978900.jpg,g-17,RED,0005148900,-,70.00,52.5,3.0,0,0,1,0,1
 193,https://www.leathercompany.co.uk/images/products/1533731484-81248800.jpg,ELA 1417,FUCHSIA,0003271100,-,70.00,26.24,0.0,0,0,0,14,14
-194,https://www.leathercompany.co.uk/images/products/zoom/1682437523-26719500.jpg,z-76,BLACK,0004598200,-,90.00,-,0.0,0,0,1,0,1
-194,https://www.leathercompany.co.uk/images/products/zoom/1682437523-26719500.jpg,z-76,GREEN,0004598300,-,90.00,-,3.0,0,0,0,1,1
-194,https://www.leathercompany.co.uk/images/products/zoom/1682437523-26719500.jpg,z-76,TAN,0004598400,-,90.00,-,1.0,0,2,1,4,7
-194,https://www.leathercompany.co.uk/images/products/zoom/1682437523-26719500.jpg,z-76,WINE,0004598500,-,90.00,-,9.0,0,1,1,2,4
-195,https://www.leathercompany.co.uk/images/products/1573059924-18362800.jpg,G26,BLACK,0003743100,-,89.99,-,2.0,0,0,0,2,2
-195,https://www.leathercompany.co.uk/images/products/1573059924-18362800.jpg,G26,BRANDY,0003743300,-,89.99,-,4.0,0,0,2,0,2
-195,https://www.leathercompany.co.uk/images/products/1573059924-18362800.jpg,G26,GREY,0004134200,-,89.99,-,4.0,0,1,0,0,1
-195,https://www.leathercompany.co.uk/images/products/1573059924-18362800.jpg,G26,HONEY,0003743200,-,89.99,-,10.0,0,2,4,2,8
+194,https://www.leathercompany.co.uk/images/products/zoom/1682437523-26719500.jpg,z-76,BLACK,0004598200,-,90.00,67.5,0.0,0,0,1,0,1
+194,https://www.leathercompany.co.uk/images/products/zoom/1682437523-26719500.jpg,z-76,GREEN,0004598300,-,90.00,67.5,3.0,0,0,0,1,1
+194,https://www.leathercompany.co.uk/images/products/zoom/1682437523-26719500.jpg,z-76,TAN,0004598400,-,90.00,67.5,1.0,0,2,1,4,7
+194,https://www.leathercompany.co.uk/images/products/zoom/1682437523-26719500.jpg,z-76,WINE,0004598500,-,90.00,67.5,9.0,0,1,1,2,4
+195,https://www.leathercompany.co.uk/images/products/1573059924-18362800.jpg,G26,BLACK,0003743100,-,89.99,67.49,2.0,0,0,0,2,2
+195,https://www.leathercompany.co.uk/images/products/1573059924-18362800.jpg,G26,BRANDY,0003743300,-,89.99,67.49,4.0,0,0,2,0,2
+195,https://www.leathercompany.co.uk/images/products/1573059924-18362800.jpg,G26,GREY,0004134200,-,89.99,67.49,4.0,0,1,0,0,1
+195,https://www.leathercompany.co.uk/images/products/1573059924-18362800.jpg,G26,HONEY,0003743200,-,89.99,67.49,10.0,0,2,4,2,8
 196,https://www.leathercompany.co.uk/images/products/1646843910-13693200.jpg,62551,MANDARIN,0004509800,-,69.99,50.0,51.0,1,1,1,1,4
 196,https://www.leathercompany.co.uk/images/products/1646843910-13693200.jpg,62551,NAVY,0003754800,-,69.99,50.0,3.0,1,6,0,1,8
 196,https://www.leathercompany.co.uk/images/products/1646843910-13693200.jpg,62551,RED,0003755900,-,69.99,50.0,50.0,0,1,0,0,1
@@ -835,16 +835,16 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 206,https://www.leathercompany.co.uk/images/products/1602688909-87799900.jpg,D-76,DK BROWN,0004034300,-,80.00,59.99,10.0,0,0,1,1,2
 206,https://www.leathercompany.co.uk/images/products/1602688909-87799900.jpg,D-76,RED,0004033900,-,80.00,59.99,9.0,0,0,0,1,1
 206,https://www.leathercompany.co.uk/images/products/1602688909-87799900.jpg,D-76,TAUPE,0004033700,-,80.00,59.99,5.0,0,0,0,2,2
-207,https://www.leathercompany.co.uk/images/products/1602851820-93480000.jpg,D-84,BLACK,0004415100,-,49.99,-,3.0,0,1,2,1,4
-207,https://www.leathercompany.co.uk/images/products/1602851820-93480000.jpg,D-84,DK BROWN,0004038800,-,49.99,-,11.0,0,0,0,0,0
-207,https://www.leathercompany.co.uk/images/products/1602851820-93480000.jpg,D-84,TURQUISE,0004415200,-,49.99,-,1.0,0,2,2,2,6
+207,https://www.leathercompany.co.uk/images/products/1602851820-93480000.jpg,D-84,BLACK,0004415100,-,49.99,37.49,3.0,0,1,2,1,4
+207,https://www.leathercompany.co.uk/images/products/1602851820-93480000.jpg,D-84,DK BROWN,0004038800,-,49.99,37.49,11.0,0,0,0,0,0
+207,https://www.leathercompany.co.uk/images/products/1602851820-93480000.jpg,D-84,TURQUISE,0004415200,-,49.99,37.49,1.0,0,2,2,2,6
 208,https://www.leathercompany.co.uk/images/products/1619523575-51924400.jpg,DOTTY,BLACK,0004131900,-,110.00,59.99,10.0,0,1,2,0,3
 208,https://www.leathercompany.co.uk/images/products/1619523575-51924400.jpg,DOTTY,LT BLUE,0004132100,-,110.00,59.99,13.0,0,1,1,0,2
 208,https://www.leathercompany.co.uk/images/products/1619523575-51924400.jpg,DOTTY,RED,0004132000,-,110.00,59.99,9.0,1,3,1,0,5
-209,https://www.leathercompany.co.uk/images/products/zoom/1682430122-43562800.jpg,z-72,BLACK,0004596600,-,75.00,-,0.0,0,3,0,0,3
-209,https://www.leathercompany.co.uk/images/products/zoom/1682430122-43562800.jpg,z-72,GREEN,0004596700,-,75.00,-,2.0,0,1,1,1,3
-209,https://www.leathercompany.co.uk/images/products/zoom/1682430122-43562800.jpg,z-72,TAN,0004596800,-,75.00,-,2.0,0,0,0,1,1
-209,https://www.leathercompany.co.uk/images/products/zoom/1682430122-43562800.jpg,z-72,WINE,0004596900,-,75.00,-,2.0,0,1,1,1,3
+209,https://www.leathercompany.co.uk/images/products/zoom/1682430122-43562800.jpg,z-72,BLACK,0004596600,-,75.00,56.25,0.0,0,3,0,0,3
+209,https://www.leathercompany.co.uk/images/products/zoom/1682430122-43562800.jpg,z-72,GREEN,0004596700,-,75.00,56.25,2.0,0,1,1,1,3
+209,https://www.leathercompany.co.uk/images/products/zoom/1682430122-43562800.jpg,z-72,TAN,0004596800,-,75.00,56.25,2.0,0,0,0,1,1
+209,https://www.leathercompany.co.uk/images/products/zoom/1682430122-43562800.jpg,z-72,WINE,0004596900,-,75.00,56.25,2.0,0,1,1,1,3
 210,https://www.leathercompany.co.uk/images/products/1654789670-00015900.jpg,S-16,GREEN,0004378800,-,135.00,83.99,2.0,0,4,0,3,7
 210,https://www.leathercompany.co.uk/images/products/1654789670-00015900.jpg,S-16,NAVY,0004378700,-,135.00,83.99,2.0,0,0,1,1,2
 210,https://www.leathercompany.co.uk/images/products/1654789670-00015900.jpg,S-16,TAN,0004378600,-,135.00,83.99,12.0,0,0,1,0,1
@@ -873,12 +873,12 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 220,https://www.leathercompany.co.uk/images/products/zoom/1742919442-48764200.jpg,20-110L,BRIDGE,0005481100,-,80.00,24.99,495.0,0,0,0,3,3
 221,https://www.leathercompany.co.uk/images/products/1604680485-80785200.jpg,AJ-630,RED,0004058000,-,59.99,39.99,23.0,0,3,2,0,5
 221,https://www.leathercompany.co.uk/images/products/1604680485-80785200.jpg,AJ-630,TAN,0004058100,-,59.99,39.99,7.0,0,3,0,0,3
-222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,BLACK,0003741300,-,99.00,-,4.0,0,1,2,0,3
-222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,BRANDY,0003741400,-,99.00,-,4.0,0,2,0,1,3
-222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,GREY,0004133900,-,99.00,-,1.0,0,0,0,0,0
-222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,HONEY,0003741500,-,99.00,-,3.0,0,0,0,0,0
-222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,NAVY,0005149300,-,99.00,-,2.0,0,1,0,0,1
-222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,RED,0004761700,-,99.00,-,4.0,0,1,0,0,1
+222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,BLACK,0003741300,-,99.00,74.25,4.0,0,1,2,0,3
+222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,BRANDY,0003741400,-,99.00,74.25,4.0,0,2,0,1,3
+222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,GREY,0004133900,-,99.00,74.25,1.0,0,0,0,0,0
+222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,HONEY,0003741500,-,99.00,74.25,3.0,0,0,0,0,0
+222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,NAVY,0005149300,-,99.00,74.25,2.0,0,1,0,0,1
+222,https://www.leathercompany.co.uk/images/products/1573062636-70648100.jpg,G23,RED,0004761700,-,99.00,74.25,4.0,0,1,0,0,1
 223,https://www.leathercompany.co.uk/images/products/1643373848-54203800.jpg,J-11,PEACH WHIP,0004281900,-,99.98,59.99,8.0,1,3,1,0,5
 223,https://www.leathercompany.co.uk/images/products/1643373848-54203800.jpg,J-11,WINTER SKY,0004281800,-,99.98,59.99,12.0,0,1,0,1,2
 223,https://www.leathercompany.co.uk/images/products/1643373848-54203800.jpg,J-11,WOOD ROSE,0004281700,-,99.98,59.99,0.0,0,0,0,1,1
@@ -900,18 +900,18 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 228,https://www.leathercompany.co.uk/images/products/zoom/1742295781-30045000.jpg,64867,DENIM,0005465200,16.6,160.00,62.49,49.0,0,0,0,0,0
 228,https://www.leathercompany.co.uk/images/products/zoom/1742295781-30045000.jpg,64867,SAGE,0005465300,16.6,160.00,62.49,46.0,0,0,0,1,1
 228,https://www.leathercompany.co.uk/images/products/zoom/1742295781-30045000.jpg,64867,WOOD ROSE,0005465400,16.6,160.00,62.49,73.0,0,0,0,1,1
-229,https://www.leathercompany.co.uk/images/products/zoom/1711039871-94303000.jpg,travel wallet,RED,0005077800,-,59.99,-,11.0,0,3,3,1,7
+229,https://www.leathercompany.co.uk/images/products/zoom/1711039871-94303000.jpg,travel wallet,RED,0005077800,-,59.99,44.99,11.0,0,3,3,1,7
 230,https://www.leathercompany.co.uk/images/products/1602590369-63343600.jpg,D-74,DK BROWN,0004032800,-,109.99,80.0,1.0,0,1,1,0,2
 230,https://www.leathercompany.co.uk/images/products/1602590369-63343600.jpg,D-74,NAVY,0004032600,-,109.99,80.0,2.0,0,2,0,0,2
 230,https://www.leathercompany.co.uk/images/products/1602590369-63343600.jpg,D-74,RED,0004032700,-,109.99,80.0,5.0,0,0,2,1,3
 231,https://www.leathercompany.co.uk/images/products/1590597836-83206200.jpg,V-21,BLACK,0003855700,-,69.00,39.99,0.0,1,0,0,0,1
 231,https://www.leathercompany.co.uk/images/products/1590597836-83206200.jpg,V-21,CHESTNUT,0003855900,-,69.00,39.99,7.0,1,2,1,1,5
-232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,BUTTERSCOTCH,0005469000,-,65.00,-,3.0,0,0,0,1,1
-232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,NAVY,0005469300,-,65.00,-,6.0,0,0,0,1,1
-232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,ORANGE,0005469400,-,65.00,-,2.0,0,0,0,1,1
-232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,RASPBERRY,0005469500,-,65.00,-,2.0,0,0,0,1,1
-232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,TURQUISE,0005469600,-,65.00,-,2.0,0,0,0,1,1
-232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,WHITE,0005469700,-,65.00,-,3.0,0,0,0,1,1
+232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,BUTTERSCOTCH,0005469000,-,65.00,48.75,3.0,0,0,0,1,1
+232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,NAVY,0005469300,-,65.00,48.75,6.0,0,0,0,1,1
+232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,ORANGE,0005469400,-,65.00,48.75,2.0,0,0,0,1,1
+232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,RASPBERRY,0005469500,-,65.00,48.75,2.0,0,0,0,1,1
+232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,TURQUISE,0005469600,-,65.00,48.75,2.0,0,0,0,1,1
+232,https://www.leathercompany.co.uk/images/products/zoom/1742907719-98983200.jpg,y-51,WHITE,0005469700,-,65.00,48.75,3.0,0,0,0,1,1
 233,https://www.leathercompany.co.uk/images/products/1602678510-93023000.jpg,D-75,BLACK,0004415900,-,114.99,84.99,11.0,0,0,0,0,0
 233,https://www.leathercompany.co.uk/images/products/1602678510-93023000.jpg,D-75,COGNAC,0004033000,-,114.99,84.99,13.0,0,0,0,0,0
 233,https://www.leathercompany.co.uk/images/products/1602678510-93023000.jpg,D-75,DK BROWN,0004033400,-,114.99,84.99,10.0,0,1,0,0,1
@@ -934,11 +934,11 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 237,https://www.leathercompany.co.uk/images/products/zoom/1679567155-27689100.jpg,mc 5,COGNAC/CROC,0004559600,-,89.00,44.99,18.0,0,0,2,0,2
 237,https://www.leathercompany.co.uk/images/products/zoom/1679567155-27689100.jpg,mc 5,NAVY/CROC,0004559700,-,89.00,44.99,18.0,1,0,0,0,1
 237,https://www.leathercompany.co.uk/images/products/zoom/1679567155-27689100.jpg,mc 5,brandy croc,0004559500,-,89.00,44.99,22.0,0,1,0,0,1
-238,https://www.leathercompany.co.uk/images/products/zoom/1742906035-91468900.jpg,y-50,BLACK,0005467800,-,50.00,-,2.0,0,0,1,1,2
-238,https://www.leathercompany.co.uk/images/products/zoom/1742906035-91468900.jpg,y-50,ORANGE,0005468400,-,50.00,-,4.0,0,0,0,1,1
-238,https://www.leathercompany.co.uk/images/products/zoom/1742906035-91468900.jpg,y-50,RASPBERRY,0005468500,-,50.00,-,1.0,0,0,0,1,1
-239,https://www.leathercompany.co.uk/images/products/1643387546-93718000.jpg,J-16,BLACK,0004283500,-,99.99,-,0.0,0,1,3,0,4
-239,https://www.leathercompany.co.uk/images/products/1643387546-93718000.jpg,J-16,WINTER SKY,0004283600,-,99.99,-,14.0,0,0,0,0,0
+238,https://www.leathercompany.co.uk/images/products/zoom/1742906035-91468900.jpg,y-50,BLACK,0005467800,-,50.00,37.5,2.0,0,0,1,1,2
+238,https://www.leathercompany.co.uk/images/products/zoom/1742906035-91468900.jpg,y-50,ORANGE,0005468400,-,50.00,37.5,4.0,0,0,0,1,1
+238,https://www.leathercompany.co.uk/images/products/zoom/1742906035-91468900.jpg,y-50,RASPBERRY,0005468500,-,50.00,37.5,1.0,0,0,0,1,1
+239,https://www.leathercompany.co.uk/images/products/1643387546-93718000.jpg,J-16,BLACK,0004283500,-,99.99,74.99,0.0,0,1,3,0,4
+239,https://www.leathercompany.co.uk/images/products/1643387546-93718000.jpg,J-16,WINTER SKY,0004283600,-,99.99,74.99,14.0,0,0,0,0,0
 240,https://www.leathercompany.co.uk/images/products/1648036639-36791600.jpg,VIN-8,BROWN,0004318200,-,99.95,63.99,6.0,0,0,0,0,0
 240,https://www.leathercompany.co.uk/images/products/1648036639-36791600.jpg,VIN-8,GREEN,0004318400,-,99.95,63.99,5.0,0,0,0,0,0
 240,https://www.leathercompany.co.uk/images/products/1648036639-36791600.jpg,VIN-8,NAVY,0004318100,-,99.95,63.99,6.0,0,0,0,0,0
@@ -948,8 +948,8 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 242,https://www.leathercompany.co.uk/images/products/1643385193-74648400.jpg,J-15,BLACK,0004283200,-,79.99,54.99,23.0,0,1,1,1,3
 242,https://www.leathercompany.co.uk/images/products/1643385193-74648400.jpg,J-15,MANDARIN,0004283300,-,79.99,54.99,26.0,0,0,0,0,0
 242,https://www.leathercompany.co.uk/images/products/1643385193-74648400.jpg,J-15,PEACH WHIP,0004283400,-,79.99,54.99,27.0,1,0,0,0,1
-243,https://www.leathercompany.co.uk/images/products/1655378293-92015500.jpg,D-73,BLACK,0004415500,-,89.99,-,2.0,0,1,3,0,4
-243,https://www.leathercompany.co.uk/images/products/1655378293-92015500.jpg,D-73,COGNAC,0004031800,-,89.99,-,10.0,0,0,0,0,0
+243,https://www.leathercompany.co.uk/images/products/1655378293-92015500.jpg,D-73,BLACK,0004415500,-,89.99,67.49,2.0,0,1,3,0,4
+243,https://www.leathercompany.co.uk/images/products/1655378293-92015500.jpg,D-73,COGNAC,0004031800,-,89.99,67.49,10.0,0,0,0,0,0
 243,https://www.leathercompany.co.uk/images/products/1655378293-92015500.jpg,D-73,DK BROWN,0004032200,-,89.99,65.0,10.0,0,0,0,0,0
 243,https://www.leathercompany.co.uk/images/products/1655378293-92015500.jpg,D-73,DK GREY,0004031700,-,89.99,65.0,1.0,0,0,0,0,0
 243,https://www.leathercompany.co.uk/images/products/1655378293-92015500.jpg,D-73,RED,0004032100,-,89.99,65.0,8.0,0,0,0,0,0
@@ -959,12 +959,12 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 244,https://www.leathercompany.co.uk/images/products/zoom/1741696050-96567500.jpg,64668,DENIM,0005448700,18.35,170.00,69.99,48.0,0,0,0,0,0
 244,https://www.leathercompany.co.uk/images/products/zoom/1741696050-96567500.jpg,64668,SAGE,0005448800,18.35,170.00,69.99,49.0,0,0,0,1,1
 244,https://www.leathercompany.co.uk/images/products/zoom/1741696050-96567500.jpg,64668,WOOD ROSE,0005448900,18.35,170.00,69.99,74.0,0,0,0,0,0
-245,https://www.leathercompany.co.uk/images/products/1646842936-17932500.jpg,L-76,COGNAC,0004314000,-,90.00,-,35.0,0,4,0,0,4
-246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,BLACK,0003742500,-,59.99,-,4.0,0,0,1,0,1
-246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,BRANDY,0003742700,-,59.99,-,6.0,0,0,1,0,1
-246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,GREY,0004134300,-,59.99,-,5.0,0,1,0,0,1
-246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,HONEY,0003742600,-,59.99,-,6.0,0,0,0,0,0
-246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,RED,0004761800,-,59.99,-,4.0,0,0,0,0,0
+245,https://www.leathercompany.co.uk/images/products/1646842936-17932500.jpg,L-76,COGNAC,0004314000,-,90.00,67.5,35.0,0,4,0,0,4
+246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,BLACK,0003742500,-,59.99,44.99,4.0,0,0,1,0,1
+246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,BRANDY,0003742700,-,59.99,44.99,6.0,0,0,1,0,1
+246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,GREY,0004134300,-,59.99,44.99,5.0,0,1,0,0,1
+246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,HONEY,0003742600,-,59.99,44.99,6.0,0,0,0,0,0
+246,https://www.leathercompany.co.uk/images/products/zoom/1685028004-72229900.jpg,G27,RED,0004761800,-,59.99,44.99,4.0,0,0,0,0,0
 247,https://www.leathercompany.co.uk/images/products/zoom/1740755533-98582200.jpg,64787,2 tone tan,0005443400,14.4,140.00,80.0,148.0,0,0,0,1,1
 247,https://www.leathercompany.co.uk/images/products/zoom/1740755533-98582200.jpg,64787,BEIGE,0005443500,14.4,140.00,80.0,75.0,0,0,0,1,1
 247,https://www.leathercompany.co.uk/images/products/zoom/1740755533-98582200.jpg,64787,BLACK,0005443300,14.4,140.00,80.0,149.0,0,0,0,0,0
@@ -977,31 +977,31 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 248,https://www.leathercompany.co.uk/images/products/zoom/1741017342-77113800.jpg,64434,DENIM,0005444800,16.55,150.00,62.49,50.0,0,0,0,0,0
 248,https://www.leathercompany.co.uk/images/products/zoom/1741017342-77113800.jpg,64434,SAGE,0005444900,16.55,150.00,62.49,50.0,0,0,0,0,0
 248,https://www.leathercompany.co.uk/images/products/zoom/1741017342-77113800.jpg,64434,WOOD ROSE,0005445000,16.55,150.00,62.49,75.0,0,0,0,0,0
-249,https://www.leathercompany.co.uk/images/products/zoom/1742479086-62541400.jpg,y-55,BLACK,0005472800,-,110.00,-,4.0,0,0,0,1,1
-249,https://www.leathercompany.co.uk/images/products/zoom/1742479086-62541400.jpg,y-55,RASPBERRY,0005473500,-,110.00,-,3.0,0,0,0,1,1
-249,https://www.leathercompany.co.uk/images/products/zoom/1742479086-62541400.jpg,y-55,WHITE,0005473700,-,110.00,-,3.0,0,0,0,1,1
-250,https://www.leathercompany.co.uk/images/products/zoom/1742394590-21737000.jpg,y-57,GREEN,0005475100,-,150.00,-,3.0,0,0,0,1,1
-250,https://www.leathercompany.co.uk/images/products/zoom/1742394590-21737000.jpg,y-57,ORANGE,0005475400,-,150.00,-,2.0,0,0,0,1,1
-250,https://www.leathercompany.co.uk/images/products/zoom/1742394590-21737000.jpg,y-57,WHITE,0005475700,-,150.00,-,4.0,0,0,0,1,1
-251,https://www.leathercompany.co.uk/images/products/zoom/1742487643-08052800.jpg,y-63,BUTTERSCOTCH,0005479000,-,140.00,-,2.0,0,0,0,1,1
-251,https://www.leathercompany.co.uk/images/products/zoom/1742487643-08052800.jpg,y-63,RASPBERRY,0005479500,-,140.00,-,1.0,0,0,0,1,1
-251,https://www.leathercompany.co.uk/images/products/zoom/1742487643-08052800.jpg,y-63,TURQUISE,0005479600,-,140.00,-,2.0,0,0,0,1,1
-252,https://www.leathercompany.co.uk/images/products/1533731851-84152100.jpg,60918,BLACK,0003268900,-,59.99,-,0.0,0,1,0,1,2
-252,https://www.leathercompany.co.uk/images/products/1533731851-84152100.jpg,60918,PEWTER,0003269000,-,59.99,-,27.0,0,0,0,1,1
+249,https://www.leathercompany.co.uk/images/products/zoom/1742479086-62541400.jpg,y-55,BLACK,0005472800,-,110.00,82.5,4.0,0,0,0,1,1
+249,https://www.leathercompany.co.uk/images/products/zoom/1742479086-62541400.jpg,y-55,RASPBERRY,0005473500,-,110.00,82.5,3.0,0,0,0,1,1
+249,https://www.leathercompany.co.uk/images/products/zoom/1742479086-62541400.jpg,y-55,WHITE,0005473700,-,110.00,82.5,3.0,0,0,0,1,1
+250,https://www.leathercompany.co.uk/images/products/zoom/1742394590-21737000.jpg,y-57,GREEN,0005475100,-,150.00,112.5,3.0,0,0,0,1,1
+250,https://www.leathercompany.co.uk/images/products/zoom/1742394590-21737000.jpg,y-57,ORANGE,0005475400,-,150.00,112.5,2.0,0,0,0,1,1
+250,https://www.leathercompany.co.uk/images/products/zoom/1742394590-21737000.jpg,y-57,WHITE,0005475700,-,150.00,112.5,4.0,0,0,0,1,1
+251,https://www.leathercompany.co.uk/images/products/zoom/1742487643-08052800.jpg,y-63,BUTTERSCOTCH,0005479000,-,140.00,105.0,2.0,0,0,0,1,1
+251,https://www.leathercompany.co.uk/images/products/zoom/1742487643-08052800.jpg,y-63,RASPBERRY,0005479500,-,140.00,105.0,1.0,0,0,0,1,1
+251,https://www.leathercompany.co.uk/images/products/zoom/1742487643-08052800.jpg,y-63,TURQUISE,0005479600,-,140.00,105.0,2.0,0,0,0,1,1
+252,https://www.leathercompany.co.uk/images/products/1533731851-84152100.jpg,60918,BLACK,0003268900,-,59.99,44.99,0.0,0,1,0,1,2
+252,https://www.leathercompany.co.uk/images/products/1533731851-84152100.jpg,60918,PEWTER,0003269000,-,59.99,44.99,27.0,0,0,0,1,1
 253,https://www.leathercompany.co.uk/images/products/zoom/1742315602-90697400.jpg,64416,2 tone tan,0005466200,15.2,140.00,59.99,148.0,0,0,0,0,0
 253,https://www.leathercompany.co.uk/images/products/zoom/1742315602-90697400.jpg,64416,BEIGE,0005466300,15.2,140.00,59.99,74.0,0,0,0,1,1
 253,https://www.leathercompany.co.uk/images/products/zoom/1742315602-90697400.jpg,64416,BLACK,0005466100,15.2,140.00,59.99,150.0,0,0,0,0,0
 253,https://www.leathercompany.co.uk/images/products/zoom/1742315602-90697400.jpg,64416,DENIM,0005466400,15.2,140.00,59.99,49.0,0,0,0,1,1
 253,https://www.leathercompany.co.uk/images/products/zoom/1742315602-90697400.jpg,64416,SAGE,0005466500,15.2,140.00,59.99,50.0,0,0,0,0,0
 253,https://www.leathercompany.co.uk/images/products/zoom/1742315602-90697400.jpg,64416,WOOD ROSE,0005466600,15.2,140.00,59.99,75.0,0,0,0,0,0
-254,https://www.leathercompany.co.uk/images/products/zoom/1742401576-88877200.jpg,y-56,BUTTERSCOTCH,0005474000,-,150.00,-,3.0,0,0,0,1,1
-254,https://www.leathercompany.co.uk/images/products/zoom/1742401576-88877200.jpg,y-56,TURQUISE,0005474600,-,150.00,-,2.0,0,0,0,1,1
-255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,BLACK,0003742200,-,89.99,-,7.0,0,0,0,0,0
-255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,BRANDY,0003742300,-,89.99,-,3.0,0,0,0,0,0
-255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,GREY,0004133600,-,89.99,-,4.0,0,0,0,0,0
-255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,HONEY,0003742400,-,89.99,-,2.0,0,0,1,0,1
-255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,NAVY,0005147500,-,89.99,-,3.0,0,0,0,0,0
-255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,RED,0004761600,-,89.99,-,5.0,0,0,0,1,1
+254,https://www.leathercompany.co.uk/images/products/zoom/1742401576-88877200.jpg,y-56,BUTTERSCOTCH,0005474000,-,150.00,112.5,3.0,0,0,0,1,1
+254,https://www.leathercompany.co.uk/images/products/zoom/1742401576-88877200.jpg,y-56,TURQUISE,0005474600,-,150.00,112.5,2.0,0,0,0,1,1
+255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,BLACK,0003742200,-,89.99,67.49,7.0,0,0,0,0,0
+255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,BRANDY,0003742300,-,89.99,67.49,3.0,0,0,0,0,0
+255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,GREY,0004133600,-,89.99,67.49,4.0,0,0,0,0,0
+255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,HONEY,0003742400,-,89.99,67.49,2.0,0,0,1,0,1
+255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,NAVY,0005147500,-,89.99,67.49,3.0,0,0,0,0,0
+255,https://www.leathercompany.co.uk/images/products/1573124935-92899000.jpg,G20,RED,0004761600,-,89.99,67.49,5.0,0,0,0,1,1
 256,https://www.leathercompany.co.uk/images/products/1573223544-52339600.jpg,60660,LT GRAY,0003752700,-,139.00,80.0,11.0,0,1,0,0,1
 256,https://www.leathercompany.co.uk/images/products/1573223544-52339600.jpg,60660,TWILIGHT BLUE,0003752600,-,139.00,80.0,3.0,0,0,1,0,1
 257,https://www.leathercompany.co.uk/images/products/1643389264-79865800.jpg,J-17,BLACK,0004283700,-,115.00,69.99,16.0,0,0,1,0,1
@@ -1016,13 +1016,13 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 259,https://www.leathercompany.co.uk/images/products/zoom/1740761183-01403200.jpg,64747,DENIM,0005441200,18.5,170.00,95.0,50.0,0,0,0,0,0
 259,https://www.leathercompany.co.uk/images/products/zoom/1740761183-01403200.jpg,64747,SAGE,0005441300,18.5,170.00,95.0,48.0,0,0,0,1,1
 259,https://www.leathercompany.co.uk/images/products/zoom/1740761183-01403200.jpg,64747,WOOD ROSE,0005441400,18.5,170.00,95.0,72.0,0,0,0,0,0
-262,https://www.leathercompany.co.uk/images/products/zoom/1704475651-57589500.jpg,62093,FUCHSIA,0003747400,-,59.00,-,19.0,0,0,0,1,1
-262,https://www.leathercompany.co.uk/images/products/zoom/1704475651-57589500.jpg,62093,MUSHROOM,0003747500,-,59.00,-,18.0,0,0,0,0,0
-263,https://www.leathercompany.co.uk/images/products/zoom/1742575268-50681300.jpg,y-52,WHITE,0005470700,-,80.00,-,4.0,0,0,0,1,1
-264,https://www.leathercompany.co.uk/images/products/zoom/1742559371-84381400.jpg,y-53,RASPBERRY,0005471500,-,95.00,-,2.0,0,0,0,1,1
-265,https://www.leathercompany.co.uk/images/products/zoom/1742472993-18244700.jpg,y-54,WHITE,0005472700,-,100.00,-,4.0,0,0,0,1,1
-267,https://www.leathercompany.co.uk/images/products/zoom/1742554595-30354700.jpg,y-61,RASPBERRY,0005477500,-,85.00,-,0.0,0,0,0,1,1
-268,https://www.leathercompany.co.uk/images/products/zoom/1742489023-96055500.jpg,y-62,TURQUISE,0005478600,-,110.00,-,1.0,0,0,0,1,1
+262,https://www.leathercompany.co.uk/images/products/zoom/1704475651-57589500.jpg,62093,FUCHSIA,0003747400,-,59.00,44.25,19.0,0,0,0,1,1
+262,https://www.leathercompany.co.uk/images/products/zoom/1704475651-57589500.jpg,62093,MUSHROOM,0003747500,-,59.00,44.25,18.0,0,0,0,0,0
+263,https://www.leathercompany.co.uk/images/products/zoom/1742575268-50681300.jpg,y-52,WHITE,0005470700,-,80.00,60.0,4.0,0,0,0,1,1
+264,https://www.leathercompany.co.uk/images/products/zoom/1742559371-84381400.jpg,y-53,RASPBERRY,0005471500,-,95.00,71.25,2.0,0,0,0,1,1
+265,https://www.leathercompany.co.uk/images/products/zoom/1742472993-18244700.jpg,y-54,WHITE,0005472700,-,100.00,75.0,4.0,0,0,0,1,1
+267,https://www.leathercompany.co.uk/images/products/zoom/1742554595-30354700.jpg,y-61,RASPBERRY,0005477500,-,85.00,63.75,0.0,0,0,0,1,1
+268,https://www.leathercompany.co.uk/images/products/zoom/1742489023-96055500.jpg,y-62,TURQUISE,0005478600,-,110.00,82.5,1.0,0,0,0,1,1
 269,https://www.leathercompany.co.uk/images/products/zoom/1742225382-18502700.jpg,64731,2 tone tan,0005464400,16.0,155.00,95.0,149.0,0,0,0,1,1
 269,https://www.leathercompany.co.uk/images/products/zoom/1742225382-18502700.jpg,64731,BEIGE,0005464500,16.0,155.00,95.0,76.0,0,0,0,0,0
 269,https://www.leathercompany.co.uk/images/products/zoom/1742225382-18502700.jpg,64731,BLACK,0005464300,16.0,155.00,95.0,151.0,0,0,0,0,0
@@ -1037,52 +1037,52 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 272,https://www.leathercompany.co.uk/images/products/zoom/1750777899-04475200.jpg,anna,BLACK,0005823600,-,35.00,19.99,2992.0,0,0,0,0,0
 272,https://www.leathercompany.co.uk/images/products/zoom/1750777899-04475200.jpg,anna,BROWN,0005823700,-,35.00,19.99,998.0,0,0,0,0,0
 272,https://www.leathercompany.co.uk/images/products/zoom/1750777899-04475200.jpg,anna,COGNAC,0005823800,-,35.00,19.99,997.0,0,0,0,0,0
-273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,BEIGE,0005473900,-,150.00,-,4.0,0,0,0,0,0
-273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,BLACK,0005473800,-,150.00,-,2.0,0,0,0,0,0
-273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,GREEN,0005474100,-,150.00,-,3.0,0,0,0,0,0
-273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,MUSTARD,0005474200,-,150.00,-,3.0,0,0,0,0,0
-273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,NAVY,0005474300,-,150.00,-,4.0,0,0,0,0,0
-273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,ORANGE,0005474400,-,150.00,-,4.0,0,0,0,0,0
-273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,RASPBERRY,0005474500,-,150.00,-,4.0,0,0,0,0,0
-273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,WHITE,0005474700,-,150.00,-,4.0,0,0,0,0,0
-274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,BEIGE,0005474900,-,150.00,-,3.0,0,0,0,0,0
-274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,BLACK,0005474800,-,150.00,-,3.0,0,0,0,0,0
-274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,BUTTERSCOTCH,0005475000,-,150.00,-,4.0,0,0,0,0,0
-274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,MUSTARD,0005475200,-,150.00,-,4.0,0,0,0,0,0
-274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,NAVY,0005475300,-,150.00,-,4.0,0,0,0,0,0
-274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,RASPBERRY,0005475500,-,150.00,-,4.0,0,0,0,0,0
-274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,TURQUISE,0005475600,-,150.00,-,4.0,0,0,0,0,0
+273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,BEIGE,0005473900,-,150.00,112.5,4.0,0,0,0,0,0
+273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,BLACK,0005473800,-,150.00,112.5,2.0,0,0,0,0,0
+273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,GREEN,0005474100,-,150.00,112.5,3.0,0,0,0,0,0
+273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,MUSTARD,0005474200,-,150.00,112.5,3.0,0,0,0,0,0
+273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,NAVY,0005474300,-,150.00,112.5,4.0,0,0,0,0,0
+273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,ORANGE,0005474400,-,150.00,112.5,4.0,0,0,0,0,0
+273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,RASPBERRY,0005474500,-,150.00,112.5,4.0,0,0,0,0,0
+273,https://www.leathercompany.co.uk/images/products/zoom/1742401499-59845000.jpg,Y-56,WHITE,0005474700,-,150.00,112.5,4.0,0,0,0,0,0
+274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,BEIGE,0005474900,-,150.00,112.5,3.0,0,0,0,0,0
+274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,BLACK,0005474800,-,150.00,112.5,3.0,0,0,0,0,0
+274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,BUTTERSCOTCH,0005475000,-,150.00,112.5,4.0,0,0,0,0,0
+274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,MUSTARD,0005475200,-,150.00,112.5,4.0,0,0,0,0,0
+274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,NAVY,0005475300,-,150.00,112.5,4.0,0,0,0,0,0
+274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,RASPBERRY,0005475500,-,150.00,112.5,4.0,0,0,0,0,0
+274,https://www.leathercompany.co.uk/images/products/zoom/1742392207-33112600.jpg,Y-57,TURQUISE,0005475600,-,150.00,112.5,4.0,0,0,0,0,0
 275,https://www.leathercompany.co.uk/images/products/zoom/1741020486-39502800.jpg,64179,2 tone tan,0005444000,12.6,120.00,49.99,150.0,0,0,0,0,0
 275,https://www.leathercompany.co.uk/images/products/zoom/1741020486-39502800.jpg,64179,BEIGE,0005444100,12.6,120.00,49.99,1.0,0,0,0,0,0
 275,https://www.leathercompany.co.uk/images/products/zoom/1741020486-39502800.jpg,64179,BLACK,0005443900,12.6,120.00,49.99,52.0,0,0,0,0,0
 275,https://www.leathercompany.co.uk/images/products/zoom/1741020486-39502800.jpg,64179,DENIM,0005444200,12.6,120.00,49.99,49.0,0,0,0,0,0
 275,https://www.leathercompany.co.uk/images/products/zoom/1741020486-39502800.jpg,64179,SAGE,0005444300,12.6,120.00,49.99,50.0,0,0,0,0,0
 275,https://www.leathercompany.co.uk/images/products/zoom/1741020486-39502800.jpg,64179,WOOD ROSE,0005444400,12.6,120.00,49.99,73.0,0,0,0,0,0
-276,https://www.leathercompany.co.uk/images/products/zoom/1742903262-85032200.jpg,Y-60,TURQUISE,0005476600,-,45.00,-,2.0,0,0,0,0,0
-280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,BEIGE,0005476900,-,85.00,-,2.0,0,0,0,0,0
-280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,BLACK,0005476800,-,85.00,-,2.0,0,0,0,0,0
-280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,GREEN,0005477100,-,85.00,-,2.0,0,0,0,0,0
-280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,MUSTARD,0005477200,-,85.00,-,2.0,0,0,0,0,0
-280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,NAVY,0005477300,-,85.00,-,2.0,0,0,0,0,0
-280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,ORANGE,0005477400,-,85.00,-,2.0,0,0,0,0,0
-280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,TURQUISE,0005477600,-,85.00,-,2.0,0,0,0,0,0
-280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,WHITE,0005477700,-,85.00,-,2.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,BEIGE,0005477900,-,110.00,-,2.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,BLACK,0005477800,-,110.00,-,1.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,BUTTERSCOTCH,0005478000,-,110.00,-,1.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,GREEN,0005478100,-,110.00,-,1.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,MUSTARD,0005478200,-,110.00,-,2.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,NAVY,0005478300,-,110.00,-,2.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,ORANGE,0005478400,-,110.00,-,2.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,RASPBERRY,0005478500,-,110.00,-,1.0,0,0,0,0,0
-281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,WHITE,0005478700,-,110.00,-,2.0,0,0,0,0,0
-282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,BEIGE,0005478900,-,140.00,-,2.0,0,0,0,0,0
-282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,BLACK,0005478800,-,140.00,-,2.0,0,0,0,0,0
-282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,GREEN,0005479100,-,140.00,-,2.0,0,0,0,0,0
-282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,MUSTARD,0005479200,-,140.00,-,2.0,0,0,0,0,0
-282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,NAVY,0005479300,-,140.00,-,2.0,0,0,0,0,0
-282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,ORANGE,0005479400,-,140.00,-,2.0,0,0,0,0,0
-282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,WHITE,0005479700,-,140.00,-,2.0,0,0,0,0,0
+276,https://www.leathercompany.co.uk/images/products/zoom/1742903262-85032200.jpg,Y-60,TURQUISE,0005476600,-,45.00,33.75,2.0,0,0,0,0,0
+280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,BEIGE,0005476900,-,85.00,63.75,2.0,0,0,0,0,0
+280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,BLACK,0005476800,-,85.00,63.75,2.0,0,0,0,0,0
+280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,GREEN,0005477100,-,85.00,63.75,2.0,0,0,0,0,0
+280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,MUSTARD,0005477200,-,85.00,63.75,2.0,0,0,0,0,0
+280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,NAVY,0005477300,-,85.00,63.75,2.0,0,0,0,0,0
+280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,ORANGE,0005477400,-,85.00,63.75,2.0,0,0,0,0,0
+280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,TURQUISE,0005477600,-,85.00,63.75,2.0,0,0,0,0,0
+280,https://www.leathercompany.co.uk/images/products/zoom/1742554548-58269500.jpg,Y-61,WHITE,0005477700,-,85.00,63.75,2.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,BEIGE,0005477900,-,110.00,82.5,2.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,BLACK,0005477800,-,110.00,82.5,1.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,BUTTERSCOTCH,0005478000,-,110.00,82.5,1.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,GREEN,0005478100,-,110.00,82.5,1.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,MUSTARD,0005478200,-,110.00,82.5,2.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,NAVY,0005478300,-,110.00,82.5,2.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,ORANGE,0005478400,-,110.00,82.5,2.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,RASPBERRY,0005478500,-,110.00,82.5,1.0,0,0,0,0,0
+281,https://www.leathercompany.co.uk/images/products/zoom/1742490010-60992500.jpg,Y-62,WHITE,0005478700,-,110.00,82.5,2.0,0,0,0,0,0
+282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,BEIGE,0005478900,-,140.00,105.0,2.0,0,0,0,0,0
+282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,BLACK,0005478800,-,140.00,105.0,2.0,0,0,0,0,0
+282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,GREEN,0005479100,-,140.00,105.0,2.0,0,0,0,0,0
+282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,MUSTARD,0005479200,-,140.00,105.0,2.0,0,0,0,0,0
+282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,NAVY,0005479300,-,140.00,105.0,2.0,0,0,0,0,0
+282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,ORANGE,0005479400,-,140.00,105.0,2.0,0,0,0,0,0
+282,https://www.leathercompany.co.uk/images/products/zoom/1742488168-19284600.jpg,Y-63,WHITE,0005479700,-,140.00,105.0,2.0,0,0,0,0,0
 283,https://www.leathercompany.co.uk/images/products/zoom/1740669522-68017300.jpg,64454,2 tone tan,0005442200,15.5,150.00,59.99,150.0,0,0,0,0,0
 283,https://www.leathercompany.co.uk/images/products/zoom/1740669522-68017300.jpg,64454,BEIGE,0005442300,15.5,150.00,59.99,73.0,0,0,0,0,0
 283,https://www.leathercompany.co.uk/images/products/zoom/1740669522-68017300.jpg,64454,BLACK,0005442100,15.5,150.00,59.99,149.0,0,0,0,0,0
@@ -1104,67 +1104,67 @@ Index,Image,Style,Colour,Offer SKU,Cost Price,RRP,Sale Price,Stock,Q3 2024,Q4 20
 287,https://www.leathercompany.co.uk/images/products/zoom/1740672107-04328000.jpg,64739,DENIM,0005445400,16.2,155.00,95.0,50.0,0,0,0,0,0
 287,https://www.leathercompany.co.uk/images/products/zoom/1740672107-04328000.jpg,64739,SAGE,0005445500,16.2,155.00,95.0,50.0,0,0,0,0,0
 287,https://www.leathercompany.co.uk/images/products/zoom/1740672107-04328000.jpg,64739,WOOD ROSE,0005445600,16.2,155.00,95.0,75.0,0,0,0,0,0
-288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,BEIGE,0005472900,-,110.00,-,4.0,0,0,0,0,0
-288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,BUTTERSCOTCH,0005473000,-,110.00,-,4.0,0,0,0,0,0
-288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,GREEN,0005473100,-,110.00,-,4.0,0,0,0,0,0
-288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,MUSTARD,0005473200,-,110.00,-,4.0,0,0,0,0,0
-288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,NAVY,0005473300,-,110.00,-,4.0,0,0,0,0,0
-288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,ORANGE,0005473400,-,110.00,-,4.0,0,0,0,0,0
-288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,TURQUISE,0005473600,-,110.00,-,4.0,0,0,0,0,0
-290,https://www.leathercompany.co.uk/images/products/zoom/1708613157-16058700.jpg,X-33,PINK,0005053100,-,70.00,-,6.0,0,0,0,0,0
-291,https://www.leathercompany.co.uk/images/products/zoom/1708537422-24744300.jpg,X-35,ORANGE,0005054000,-,80.00,-,2.0,0,0,0,0,0
-292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,BEIGE,0005467900,-,50.00,-,3.0,0,0,0,0,0
-292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,BUTTERSCOTCH,0005468000,-,50.00,-,4.0,0,0,0,0,0
-292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,GREEN,0005468100,-,50.00,-,4.0,0,0,0,0,0
-292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,MUSTARD,0005468200,-,50.00,-,4.0,0,0,0,0,0
-292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,NAVY,0005468300,-,50.00,-,4.0,0,0,0,0,0
-292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,TURQUISE,0005468600,-,50.00,-,4.0,0,0,0,0,0
-292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,WHITE,0005468700,-,50.00,-,4.0,0,0,0,0,0
-294,https://www.leathercompany.co.uk/images/products/zoom/1742907621-51787900.jpg,Y-51,BEIGE,0005468900,-,65.00,-,3.0,0,0,0,0,0
-294,https://www.leathercompany.co.uk/images/products/zoom/1742907621-51787900.jpg,Y-51,BLACK,0005468800,-,65.00,-,3.0,0,0,0,0,0
-294,https://www.leathercompany.co.uk/images/products/zoom/1742907621-51787900.jpg,Y-51,GREEN,0005469100,-,65.00,-,3.0,0,0,0,0,0
-294,https://www.leathercompany.co.uk/images/products/zoom/1742907621-51787900.jpg,Y-51,MUSTARD,0005469200,-,65.00,-,3.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,BEIGE,0005469900,-,80.00,-,3.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,BLACK,0005469800,-,80.00,-,3.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,BUTTERSCOTCH,0005470000,-,80.00,-,3.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,GREEN,0005470100,-,80.00,-,3.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,MUSTARD,0005470200,-,80.00,-,3.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,NAVY,0005470300,-,80.00,-,3.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,ORANGE,0005470400,-,80.00,-,3.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,RASPBERRY,0005470500,-,80.00,-,2.0,0,0,0,0,0
-295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,TURQUISE,0005470600,-,80.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,BEIGE,0005470900,-,95.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,BLACK,0005470800,-,95.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,BUTTERSCOTCH,0005471000,-,95.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,GREEN,0005471100,-,95.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,MUSTARD,0005471200,-,95.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,NAVY,0005471300,-,95.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,ORANGE,0005471400,-,95.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,TURQUISE,0005471600,-,95.00,-,3.0,0,0,0,0,0
-297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,WHITE,0005471700,-,95.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,BEIGE,0005471900,-,100.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,BLACK,0005471800,-,100.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,BUTTERSCOTCH,0005472000,-,100.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,GREEN,0005472100,-,100.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,MUSTARD,0005472200,-,100.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,NAVY,0005472300,-,100.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,ORANGE,0005472400,-,100.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,RASPBERRY,0005472500,-,100.00,-,4.0,0,0,0,0,0
-298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,TURQUISE,0005472600,-,100.00,-,4.0,0,0,0,0,0
-300,https://www.leathercompany.co.uk/images/products/zoom/1749741388-32649200.jpg,v-80,BLACK,0005818400,-,70.00,-,2.0,0,0,0,0,0
-300,https://www.leathercompany.co.uk/images/products/zoom/1749741388-32649200.jpg,v-80,BROWN,0005818500,-,70.00,-,1.0,0,0,0,0,0
-301,https://www.leathercompany.co.uk/images/products/zoom/1749741088-07368600.jpg,v-81,BLACK,0005818600,-,80.00,-,1.0,0,0,0,0,0
-301,https://www.leathercompany.co.uk/images/products/zoom/1749741088-07368600.jpg,v-81,BROWN,0005818700,-,80.00,-,1.0,0,0,0,0,0
-302,https://www.leathercompany.co.uk/images/products/zoom/1749743739-70192100.jpg,v-82,BLACK,0005818800,-,75.00,-,1.0,0,0,0,0,0
-302,https://www.leathercompany.co.uk/images/products/zoom/1749743739-70192100.jpg,v-82,BROWN,0005818900,-,75.00,-,1.0,0,0,0,0,0
-303,https://www.leathercompany.co.uk/images/products/zoom/1749740465-42547500.jpg,v-83,BLACK,0005819000,-,100.00,-,1.0,0,0,0,0,0
-304,https://www.leathercompany.co.uk/images/products/zoom/1749732714-05408300.jpg,v-84,BROWN,0005819300,-,125.00,-,1.0,0,0,0,0,0
-305,https://www.leathercompany.co.uk/images/products/zoom/1749733957-54931000.jpg,v-86-b,BLACK,0005820200,-,115.00,-,1.0,0,0,0,0,0
-305,https://www.leathercompany.co.uk/images/products/zoom/1749733957-54931000.jpg,v-86-b,BROWN,0005820300,-,115.00,-,1.0,0,0,0,0,0
-306,https://www.leathercompany.co.uk/images/products/zoom/1749732240-10520800.jpg,v-87,BLACK,0005819600,-,150.00,-,1.0,0,0,0,0,0
-306,https://www.leathercompany.co.uk/images/products/zoom/1749732240-10520800.jpg,v-87,BROWN,0005819700,-,150.00,-,1.0,0,0,0,0,0
-307,https://www.leathercompany.co.uk/images/products/zoom/1749805995-38713900.jpg,v-90,BLACK,0005819800,-,40.00,-,1.0,0,0,0,0,0
-307,https://www.leathercompany.co.uk/images/products/zoom/1749805995-38713900.jpg,v-90,BROWN,0005819900,-,40.00,-,1.0,0,0,0,0,0
+288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,BEIGE,0005472900,-,110.00,82.5,4.0,0,0,0,0,0
+288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,BUTTERSCOTCH,0005473000,-,110.00,82.5,4.0,0,0,0,0,0
+288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,GREEN,0005473100,-,110.00,82.5,4.0,0,0,0,0,0
+288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,MUSTARD,0005473200,-,110.00,82.5,4.0,0,0,0,0,0
+288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,NAVY,0005473300,-,110.00,82.5,4.0,0,0,0,0,0
+288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,ORANGE,0005473400,-,110.00,82.5,4.0,0,0,0,0,0
+288,https://www.leathercompany.co.uk/images/products/zoom/1742478890-91152500.jpg,Y-55,TURQUISE,0005473600,-,110.00,82.5,4.0,0,0,0,0,0
+290,https://www.leathercompany.co.uk/images/products/zoom/1708613157-16058700.jpg,X-33,PINK,0005053100,-,70.00,52.5,6.0,0,0,0,0,0
+291,https://www.leathercompany.co.uk/images/products/zoom/1708537422-24744300.jpg,X-35,ORANGE,0005054000,-,80.00,60.0,2.0,0,0,0,0,0
+292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,BEIGE,0005467900,-,50.00,37.5,3.0,0,0,0,0,0
+292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,BUTTERSCOTCH,0005468000,-,50.00,37.5,4.0,0,0,0,0,0
+292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,GREEN,0005468100,-,50.00,37.5,4.0,0,0,0,0,0
+292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,MUSTARD,0005468200,-,50.00,37.5,4.0,0,0,0,0,0
+292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,NAVY,0005468300,-,50.00,37.5,4.0,0,0,0,0,0
+292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,TURQUISE,0005468600,-,50.00,37.5,4.0,0,0,0,0,0
+292,https://www.leathercompany.co.uk/images/products/zoom/1742906103-03057900.jpg,Y-50,WHITE,0005468700,-,50.00,37.5,4.0,0,0,0,0,0
+294,https://www.leathercompany.co.uk/images/products/zoom/1742907621-51787900.jpg,Y-51,BEIGE,0005468900,-,65.00,48.75,3.0,0,0,0,0,0
+294,https://www.leathercompany.co.uk/images/products/zoom/1742907621-51787900.jpg,Y-51,BLACK,0005468800,-,65.00,48.75,3.0,0,0,0,0,0
+294,https://www.leathercompany.co.uk/images/products/zoom/1742907621-51787900.jpg,Y-51,GREEN,0005469100,-,65.00,48.75,3.0,0,0,0,0,0
+294,https://www.leathercompany.co.uk/images/products/zoom/1742907621-51787900.jpg,Y-51,MUSTARD,0005469200,-,65.00,48.75,3.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,BEIGE,0005469900,-,80.00,60.0,3.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,BLACK,0005469800,-,80.00,60.0,3.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,BUTTERSCOTCH,0005470000,-,80.00,60.0,3.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,GREEN,0005470100,-,80.00,60.0,3.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,MUSTARD,0005470200,-,80.00,60.0,3.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,NAVY,0005470300,-,80.00,60.0,3.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,ORANGE,0005470400,-,80.00,60.0,3.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,RASPBERRY,0005470500,-,80.00,60.0,2.0,0,0,0,0,0
+295,https://www.leathercompany.co.uk/images/products/zoom/1742575116-27140300.jpg,Y-52,TURQUISE,0005470600,-,80.00,60.0,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,BEIGE,0005470900,-,95.00,71.25,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,BLACK,0005470800,-,95.00,71.25,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,BUTTERSCOTCH,0005471000,-,95.00,71.25,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,GREEN,0005471100,-,95.00,71.25,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,MUSTARD,0005471200,-,95.00,71.25,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,NAVY,0005471300,-,95.00,71.25,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,ORANGE,0005471400,-,95.00,71.25,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,TURQUISE,0005471600,-,95.00,71.25,3.0,0,0,0,0,0
+297,https://www.leathercompany.co.uk/images/products/zoom/1742558599-41558100.jpg,Y-53,WHITE,0005471700,-,95.00,71.25,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,BEIGE,0005471900,-,100.00,75.0,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,BLACK,0005471800,-,100.00,75.0,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,BUTTERSCOTCH,0005472000,-,100.00,75.0,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,GREEN,0005472100,-,100.00,75.0,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,MUSTARD,0005472200,-,100.00,75.0,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,NAVY,0005472300,-,100.00,75.0,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,ORANGE,0005472400,-,100.00,75.0,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,RASPBERRY,0005472500,-,100.00,75.0,4.0,0,0,0,0,0
+298,https://www.leathercompany.co.uk/images/products/zoom/1742472784-79061100.jpg,Y-54,TURQUISE,0005472600,-,100.00,75.0,4.0,0,0,0,0,0
+300,https://www.leathercompany.co.uk/images/products/zoom/1749741388-32649200.jpg,v-80,BLACK,0005818400,-,70.00,52.5,2.0,0,0,0,0,0
+300,https://www.leathercompany.co.uk/images/products/zoom/1749741388-32649200.jpg,v-80,BROWN,0005818500,-,70.00,52.5,1.0,0,0,0,0,0
+301,https://www.leathercompany.co.uk/images/products/zoom/1749741088-07368600.jpg,v-81,BLACK,0005818600,-,80.00,60.0,1.0,0,0,0,0,0
+301,https://www.leathercompany.co.uk/images/products/zoom/1749741088-07368600.jpg,v-81,BROWN,0005818700,-,80.00,60.0,1.0,0,0,0,0,0
+302,https://www.leathercompany.co.uk/images/products/zoom/1749743739-70192100.jpg,v-82,BLACK,0005818800,-,75.00,56.25,1.0,0,0,0,0,0
+302,https://www.leathercompany.co.uk/images/products/zoom/1749743739-70192100.jpg,v-82,BROWN,0005818900,-,75.00,56.25,1.0,0,0,0,0,0
+303,https://www.leathercompany.co.uk/images/products/zoom/1749740465-42547500.jpg,v-83,BLACK,0005819000,-,100.00,75.0,1.0,0,0,0,0,0
+304,https://www.leathercompany.co.uk/images/products/zoom/1749732714-05408300.jpg,v-84,BROWN,0005819300,-,125.00,93.75,1.0,0,0,0,0,0
+305,https://www.leathercompany.co.uk/images/products/zoom/1749733957-54931000.jpg,v-86-b,BLACK,0005820200,-,115.00,86.25,1.0,0,0,0,0,0
+305,https://www.leathercompany.co.uk/images/products/zoom/1749733957-54931000.jpg,v-86-b,BROWN,0005820300,-,115.00,86.25,1.0,0,0,0,0,0
+306,https://www.leathercompany.co.uk/images/products/zoom/1749732240-10520800.jpg,v-87,BLACK,0005819600,-,150.00,112.5,1.0,0,0,0,0,0
+306,https://www.leathercompany.co.uk/images/products/zoom/1749732240-10520800.jpg,v-87,BROWN,0005819700,-,150.00,112.5,1.0,0,0,0,0,0
+307,https://www.leathercompany.co.uk/images/products/zoom/1749805995-38713900.jpg,v-90,BLACK,0005819800,-,40.00,30.0,1.0,0,0,0,0,0
+307,https://www.leathercompany.co.uk/images/products/zoom/1749805995-38713900.jpg,v-90,BROWN,0005819900,-,40.00,30.0,1.0,0,0,0,0,0
 308,https://www.leathercompany.co.uk/images/products/zoom/1741082383-86454800.jpg,64741,2 tone tan,0005441600,10.55,110.00,80.0,150.0,0,0,0,0,0
 308,https://www.leathercompany.co.uk/images/products/zoom/1741082383-86454800.jpg,64741,BEIGE,0005441700,10.55,110.00,80.0,74.0,0,0,0,0,0
 308,https://www.leathercompany.co.uk/images/products/zoom/1741082383-86454800.jpg,64741,BLACK,0005441500,10.55,110.00,80.0,148.0,0,0,0,0,0
