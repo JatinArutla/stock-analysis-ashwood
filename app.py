@@ -65,8 +65,8 @@ st.header('Handbags Stock\n')
 df = pd.read_csv('Handbags July 2025 No Groups.csv')
 df['Colour'] = df['Colour'].str.capitalize()
 df['Cost Price'] = df['Cost Price'].astype(str)
-df['RRP'] = df['RRP'].astype(str)
-df['Sale Price'] = df['Sale Price'].astype(str)
+# df['RRP'] = df['RRP'].astype(str)
+# df['Sale Price'] = df['Sale Price'].astype(str)
 
 temp = df.groupby(['Style', 'Cost Price', 'RRP', 'Sale Price'])[['Stock', 'Q2 2025']].sum().reset_index().sort_values(by='Stock', ascending=False).reset_index(drop=True)
 
