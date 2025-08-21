@@ -68,7 +68,7 @@ df['Cost Price'] = df['Cost Price'].astype(str)
 # df['RRP'] = df['RRP'].astype(str)
 # df['Sale Price'] = df['Sale Price'].astype(str)
 
-temp = df.groupby(['Style', 'StyleRestockDate', 'Cost Price', 'RRP', 'Sale Price'])[['Stock', 'Q2 2025']].sum().reset_index().sort_values(by='Stock', ascending=False).reset_index(drop=True)
+temp = df.groupby(['Style', 'StyleRestockDate', 'RRP', 'Sale Price'])[['Stock', 'Q2 2025']].sum().reset_index().sort_values(by='Stock', ascending=False).reset_index(drop=True)
 
 selection = dataframe_with_selections(temp, 1)
 
